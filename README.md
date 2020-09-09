@@ -29,6 +29,8 @@ FZThemeManager.manager.switchCurrentTheme(to: .dark)
 2. register theme loader:
 ```
 FZThemeManager.manager.themeLoader { (style) -> (Bool, FZThemeMachineProtocol?)? in
+            // true means it will cache themeMachine for the style
+            // false means when style changed, it will enter here again
             return (true, DemoThemeMachine(themeStyle: style))
         }
 ```
