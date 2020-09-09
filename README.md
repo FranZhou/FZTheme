@@ -20,6 +20,41 @@ it, simply add the following line to your Podfile:
 pod 'FZTheme'
 ```
 
+## instructions
+1. switch theme style:
+```
+FZThemeManager.manager.switchCurrentTheme(to: .dark)
+```
+
+2. register theme loader:
+```
+FZThemeManager.manager.themeLoader { (style) -> (Bool, FZThemeMachineProtocol?)? in
+            return (true, DemoThemeMachine(themeStyle: style))
+        }
+```
+3.bind UI like:
+```
+self.view.fz_theme.appearance { (view, style, themeMachine) in
+            switch style{
+            case .light:
+                view.backgroundColor = UIColor.white
+            case .dark:
+                view.backgroundColor = UIColor.red
+            case .custom(let _):
+                view.backgroundColor = UIColor.green
+            }
+        }
+
+```
+if user theme machine,you can use it like this:
+```
+self.view.fz_theme.appearance { (view, style, themeMachine) in
+            view.layer.contents = themeMachine?.themeImage(withIdentifier: "backgroundImage", themeStyle: style, defaultImage: nil)?.cgImage
+        }
+```
+4. More to see Example Project
+
+
 ## Author
 
 FranZhou, fairytale_zf@outlook.com
