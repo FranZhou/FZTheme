@@ -2,7 +2,9 @@ use_frameworks!
 
 target 'FZTheme_Example' do
   pod 'FZTheme', :path => '../'
-
+  
+  pod "FZBuildingBlock"
+  
   target 'FZTheme_Tests' do
     inherit! :search_paths
 

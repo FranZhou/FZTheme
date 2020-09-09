@@ -1,16 +1,34 @@
 PODS:
+  - FZBuildingBlock (0.2.0):
+    - FZBuildingBlock/Extensions (= 0.2.0)
+    - FZBuildingBlock/Observer (= 0.2.0)
+    - FZBuildingBlock/Router (= 0.2.0)
+    - FZBuildingBlock/Tools (= 0.2.0)
+    - FZBuildingBlock/Views (= 0.2.0)
+  - FZBuildingBlock/Extensions (0.2.0)
+  - FZBuildingBlock/Observer (0.2.0)
+  - FZBuildingBlock/Router (0.2.0)
+  - FZBuildingBlock/Tools (0.2.0)
+  - FZBuildingBlock/Views (0.2.0):
+    - FZBuildingBlock/Extensions
   - FZTheme (0.1.0)
 
 DEPENDENCIES:
+  - FZBuildingBlock
   - FZTheme (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FZBuildingBlock
 
 EXTERNAL SOURCES:
   FZTheme:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FZTheme: ceaa660433caa441d2930f7bb9021361ec61773c
+  FZBuildingBlock: da045aaf23108fd07e4d1122196d9d93546f8136
+  FZTheme: a10bfc2fcf6bda332ab0547c53bf2bbd8d7d49ab
 
-PODFILE CHECKSUM: 08cd3a77d68d627cd6d57bae601242bd3d3126ff
+PODFILE CHECKSUM: 305b74138817659a24976f50e37b22f41ad05ebe
 
 COCOAPODS: 1.9.0.beta.2

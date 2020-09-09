@@ -8,7 +8,7 @@
 import Foundation
 
 /// 主题机，管理主题实现
-public protocol FZThemeMachineProtocol: NSObjectProtocol {
+public protocol FZThemeMachineProtocol {
 
     var themeStyle: FZThemeStyle { get }
 

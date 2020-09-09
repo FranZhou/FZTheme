@@ -20,5 +20,9 @@
   },
   "source_files": "FZTheme/Classes/**/*",
   "swift_versions": "5.0",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
   "swift_version": "5.0"
 }

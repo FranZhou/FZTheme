@@ -1,0 +1,11 @@
+/* 
+  dark.strings
+  FZTheme
+
+  Created by FranZhou on 2020/9/9.
+  Copyright © 2020 CocoaPods. All rights reserved.
+*/
+
+backgroundImage = "#7FFFAA";
+btn_titile = "#FFFFFF";
+btn_background = "#000000";

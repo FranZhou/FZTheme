@@ -34,6 +34,8 @@ TODO: Add long description of the pod here.
   
   s.swift_version = "5.0"
   
+  s.frameworks = "UIKit", "Foundation"
+  
   # s.resource_bundles = {
   #   'FZTheme' => ['FZTheme/Assets/*.png']
   # }
