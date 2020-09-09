@@ -22,7 +22,7 @@ pod 'FZTheme'
 
 ## Author
 
-FranZhou, zhoufan123@babytree-inc.com
+FranZhou, fairytale_zf@outlook.com
 
 ## License
 

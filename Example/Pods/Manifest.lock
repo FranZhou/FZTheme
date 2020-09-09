@@ -1,0 +1,16 @@
+PODS:
+  - FZTheme (0.1.0)
+
+DEPENDENCIES:
+  - FZTheme (from `../`)
+
+EXTERNAL SOURCES:
+  FZTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FZTheme: ceaa660433caa441d2930f7bb9021361ec61773c
+
+PODFILE CHECKSUM: 08cd3a77d68d627cd6d57bae601242bd3d3126ff
+
+COCOAPODS: 1.9.0.beta.2

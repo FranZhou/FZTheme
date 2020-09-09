@@ -24,13 +24,15 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/FranZhou/FZTheme'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'FranZhou' => 'zhoufan123@babytree-inc.com' }
+  s.author           = { 'FranZhou' => 'fairytale_zf@outlook.com' }
   s.source           = { :git => 'https://github.com/FranZhou/FZTheme.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'FZTheme/Classes/**/*'
+  
+  s.swift_version = "5.0"
   
   # s.resource_bundles = {
   #   'FZTheme' => ['FZTheme/Assets/*.png']
