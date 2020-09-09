@@ -48,7 +48,7 @@ self.view.fz_theme.appearance { (view, style, themeMachine) in
         }
 
 ```
-if user theme machine,you can use it like this:
+if use theme machine, you can use it like this:
 ```
 self.view.fz_theme.appearance { (view, style, themeMachine) in
             view.layer.contents = themeMachine?.themeImage(withIdentifier: "backgroundImage", themeStyle: style, defaultImage: nil)?.cgImage
