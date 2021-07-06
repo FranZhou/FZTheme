@@ -7,182 +7,181 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01175DC8D1B41B5A6E0B6DB1A587F5D0 /* UIImage+Resize.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A37A7058AA65EEA87A54221C683282 /* UIImage+Resize.swift */; };
+		01C5AF5014BD64BB3A07894EABA7AB71 /* Bundle+Find.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94159DEADA90BD1D14F48F42027A5FBF /* Bundle+Find.swift */; };
+		02D40E00AF51ECE3FCD45437E738B576 /* UIImage+Cut.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EE5BDEACCA747A80121ED1B942169 /* UIImage+Cut.swift */; };
 		032FD74DE88ED6E043DCDDEE4749E50A /* FZThemeBlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B173D8068CD956B6EDE8BD12E587A981 /* FZThemeBlock.swift */; };
-		06847A5C9F7343DC55396D89F6C12D83 /* FZRouterURLUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5046B8E834FBBB9AE51F775F48D284E /* FZRouterURLUtil.swift */; };
-		084E70AB3CDEBBC64DFE85EE49238EA0 /* NSMutableAttributedString+Remove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152E27080F2D65A4BC6E3BB69DEB8CF7 /* NSMutableAttributedString+Remove.swift */; };
-		0B3EF2AC40CC9BCAF4A0B1A007C4320E /* FZRouterPlistLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162DF8AD5B0FA9BC2FD53242D205018B /* FZRouterPlistLoader.swift */; };
-		0E4D355FBE2442CD534D51BD322BDEEB /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A74045DF4C1D5FD12ACC20DC8391393 /* Observer.swift */; };
-		10B57FDBC9159844C9C1F28A31F29C21 /* FZBuildingBlockCompatible+UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702229B08BEE28F356FF3B67E86101EC /* FZBuildingBlockCompatible+UIDevice.swift */; };
-		11FF7216CF6419448533C5D748A02684 /* UIImage+Cut.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13EE5BDEACCA747A80121ED1B942169 /* UIImage+Cut.swift */; };
-		13D5385B4E43EB932044BFAA83F3A96E /* Pods-FZTheme_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C0A1952C398A1D4A7A4CFD0EE8073D02 /* Pods-FZTheme_Example-dummy.m */; };
-		1431F4EF40B5700B399084A419A25222 /* UIApplication+SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18E55CD033DD1BD00D5653150C360D9 /* UIApplication+SafeArea.swift */; };
-		15CFD7B6AAE1575E93B8837B66BC4B0C /* UIPinchGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4146E27CE272DBE61353888C593A882A /* UIPinchGestureRecognizer+Closures.swift */; };
-		175790037B0E3FB86B54DE135CBFB1D1 /* FZBuildingBlockCompatible+Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A4AF4A5EBB30F7A0D6A517F187B985 /* FZBuildingBlockCompatible+Bundle.swift */; };
-		1D73DEB2B5A053689676E5B40B5F3689 /* FZBuildingBlockCompatible+UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D1E27F8E69DB99EAC1048A76C4D810 /* FZBuildingBlockCompatible+UIFont.swift */; };
-		1F50DC43E6DF166024E6662D7CB9A1A6 /* Bundle+Find.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94159DEADA90BD1D14F48F42027A5FBF /* Bundle+Find.swift */; };
-		22538F62E415C06F57BE68C01894EDD7 /* FZRouterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3E0080D39A147C3425B0C06C2FB5 /* FZRouterManager.swift */; };
-		2286908DCD0E07846053158ED8934D56 /* FZBuildingBlockCompatible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678C105514B63F14B0FC7063948B699A /* FZBuildingBlockCompatible.swift */; };
-		256E4511057AE678324E71C4679F5EF0 /* UIButton+Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE363073F1916B24D5F1EC9BD5A0BA3 /* UIButton+Indicator.swift */; };
-		25B350646EBA181ED8AAA722D31BFB53 /* String+Base64.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A93B608CA8C573B53541ADA6BDF1AB /* String+Base64.swift */; };
-		25DA4ADE3BD60FAA2801685B5E272154 /* FZBuildingBlockCompatible+UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9BC7FE9A8394859567A13B9A8AA24F /* FZBuildingBlockCompatible+UIColor.swift */; };
-		295C3D087415829CF2623465D3663763 /* UITapGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD363411ED857EE8CD2672072C06B3F3 /* UITapGestureRecognizer+Closures.swift */; };
-		2AB6D5755178E5CB83AE94B0B6546813 /* String+CommonCrypto.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E17A352A9C1056C44BBF22514BC28F /* String+CommonCrypto.swift */; };
+		0363F8AC16EFF44BE1098E8E587F7BF8 /* UIControl+TouchArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = A279774E09F56CA92CDD32815EBD9D33 /* UIControl+TouchArea.swift */; };
+		037A9F6C1C04F1CE8E65575715167BF1 /* UITabBarController+TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B36C1A4D0AC75B259DEDAB9C785755E /* UITabBarController+TabBar.swift */; };
+		044BE820238EB2BA0E5F8882DECCB1ED /* UIImage+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968777CA4C1E81E68B93E565621C893 /* UIImage+CornerRadius.swift */; };
+		0574AE8D0F0130C855E14D88F665C32F /* KeyChainUniqueIDManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DABD22343141EC7399D5F5BDA9546E0 /* KeyChainUniqueIDManager.swift */; };
+		079CAC7B0C77DB04D95B7C99252A653A /* UIColor+Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37474E3D9AF1A13CBD13E0A8A6FC897C /* UIColor+Random.swift */; };
+		08C6EC478CDA99086007CFD42FD8EDA5 /* NSAttributedString+ConvenienceInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8263385BE86B7345A683C8E63DEBE6 /* NSAttributedString+ConvenienceInit.swift */; };
+		0B70F826ED84CC919CD69783057DF1EF /* FZAttribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69399D53A798C5C8304568A5BED901F1 /* FZAttribute.swift */; };
+		0CC2D2A1ED4072BAA72BA958923782FE /* UIImage+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC515C9E463D625419C5C972B72E9747 /* UIImage+Color.swift */; };
+		0E087675937DEF4F90AE8A6EB6DF015C /* String+URL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCFC9814B99CE866C4049CA1473D6323 /* String+URL.swift */; };
+		0F02E412D9B508B2E1382766286DFCCA /* UINavigationController+StackManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F948BBBC0CD3BC9098387C8230911AA /* UINavigationController+StackManager.swift */; };
+		0F8505B69AB839327B3D772468B55FF9 /* FZUIControlClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E22DF7AC3254DF759871D0253F8BF /* FZUIControlClosureHandler.swift */; };
+		14550F567EAA3C23ADD2DD3D52D1AE5B /* UIImageView+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBF9DB802F33EC273D4C67D461871E /* UIImageView+GIF.swift */; };
+		16B510D8126F87FA3B6D94DADA7B3B8C /* UIView+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A1D169CA92C6C100AF9AFC61971DCA /* UIView+CornerRadius.swift */; };
+		17140D0AEEED2F904EE15DA2942129C0 /* FZBuildingBlockCompatible+UIScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118988030EED706EA602E50A332F6CD5 /* FZBuildingBlockCompatible+UIScreen.swift */; };
+		1735DF712B1C2C6AF667DE0CA007F60E /* UIViewController+TopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27E36BDD58643070F5C516AFF74F0F1 /* UIViewController+TopViewController.swift */; };
+		176091F72AD773C5FE39A6EE93690E9A /* KeychainPasswordItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51E854549E9911C4F2E1D43E3059A0F /* KeychainPasswordItem.swift */; };
+		195C7859D9113A14AD72015E7A4A9192 /* FZTableViewSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49145A3D69AFB6D5FBBA61538FB289EA /* FZTableViewSection.swift */; };
+		1B3C36A62EC833EDF93468597A191EA3 /* FZBuildingBlockCompatible+UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9BC7FE9A8394859567A13B9A8AA24F /* FZBuildingBlockCompatible+UIColor.swift */; };
+		1DEAF832E4DB7C6F5A931BF73B1D134B /* Pods-FZTheme_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 44434076E4EFA817C86BE53ED2FAF07D /* Pods-FZTheme_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1E7DEA4E4430CA9F4E9D002AE06EA153 /* FZBuildingBlockCompatible+UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702229B08BEE28F356FF3B67E86101EC /* FZBuildingBlockCompatible+UIDevice.swift */; };
+		1EEAB82BBFA57052240F04EBAA865A93 /* FZBuildingBlockCompatible+Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A4AF4A5EBB30F7A0D6A517F187B985 /* FZBuildingBlockCompatible+Bundle.swift */; };
+		1F18C80286D0A31C4335D75193A68842 /* NSAttributedString+Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261F37CCBA79EEE03A313D8E578FB9CF /* NSAttributedString+Range.swift */; };
+		1F8601C52B003C97C5AB85C6A9D3F59A /* UIColor+HSB.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37C1C430C4F8136297BF515C6EA3C08 /* UIColor+HSB.swift */; };
+		2057F778CFDC190C8A6AD7F264CECF8B /* FZRouterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CF7204BAC6745DC23FC6F937357A35 /* FZRouterModel.swift */; };
+		23C559E8333E32B93B3D0B645A587ED6 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F7603019D198772DC77E64314527F8 /* UIView+Snapshot.swift */; };
+		26D120C2B9667C2D17248F235491378D /* UIButton+ImageAndTitleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F75FA8F903FC4D180EE5EA85A612AEB /* UIButton+ImageAndTitleLayout.swift */; };
+		276BF904196A1EC56C9B7B820AA5013E /* Pods-FZTheme_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C0A1952C398A1D4A7A4CFD0EE8073D02 /* Pods-FZTheme_Example-dummy.m */; };
+		2791A30DA2349CD65A2016882E9038EC /* Data+PNG.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7BEBBB7588B2343CB5D9447EE5FB92 /* Data+PNG.swift */; };
+		2804282EB95B3BA4946F9D1701036880 /* String+Pinyin.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBEA5439F32274B5EDF775FB4162D98 /* String+Pinyin.swift */; };
 		2B0C3AD33BB58D6C6EC3EED75E66BFA5 /* UIWindow+Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C3A1CD197F333772F50C1591E99CFAD /* UIWindow+Theme.swift */; };
-		2CF63B6384C9D49788F312FC393F4E2B /* UISwipeGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE6FB05ABF83477627F68E6FEA2694 /* UISwipeGestureRecognizer+Closures.swift */; };
-		2F6F5EB673A33846D84DE244290FED9C /* FZRouterExecuterProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99CC6E90CE818137C5DDEA7F50D2421 /* FZRouterExecuterProtocol.swift */; };
-		30857C43D1BED32F2EFE44D72E1B7681 /* FZRouterManagerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B121BAC0B2D97822AFD1E5D8FAB3DD /* FZRouterManagerProtocol.swift */; };
-		32734168C9D640BAD07ABE7D6F0409BE /* UIScreenEdgePanGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CBE54C9678390DE930FBA309759418 /* UIScreenEdgePanGestureRecognizer+Closures.swift */; };
-		32CE43055792B367D20D6A49F49F2284 /* FZRouterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CF7204BAC6745DC23FC6F937357A35 /* FZRouterModel.swift */; };
-		341FC1D4F5E543D2231A93D1E77629BD /* FZGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826D29A05FAC88712BE22173EF1E2B0E /* FZGradientView.swift */; };
-		34A71434ED55B353B064512762A0999A /* String+SafeAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CADDF0D21F342D8614DEE2F7D88BF1 /* String+SafeAccess.swift */; };
-		35CA9CBF45B6A797100EBD156E285CD0 /* UIGestureRecognizer+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A59AD955C4A268D580D98856A22E1C6 /* UIGestureRecognizer+Handler.swift */; };
+		2D364A70D3D57FE4CACE8DBF53C5BBDF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		2DB7DBEE3051B7AF80FEE52016B13841 /* UIImage+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9972FF9D72221471D7F1D95EDEB8A2 /* UIImage+String.swift */; };
+		2E6FF7DF01BB07321DAA3326633C01F5 /* FZRouterDataPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A220FE8CA0F0B97F3B2BE58D55FCE9 /* FZRouterDataPacket.swift */; };
+		2F35CF62B197BAFCC2F0EB3870642C7F /* ObserveAble.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA52804C4D63A5CE0F14EAE3633F278D /* ObserveAble.swift */; };
+		2F58E7D7DE65B480A40A5957FECAD655 /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40872CB96BA2AF81B0D14C64E4B814A6 /* UIColor+Hex.swift */; };
+		3602DAF1C6B69D93216482BD982710B9 /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = F885FB2720839E26903CC554D8186955 /* UIImage+GIF.swift */; };
 		368D538F805B32D1FA0B942149E1398F /* FZThemeManager+ThemeSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EBC380943EF69CF93B6BB7E7B28585 /* FZThemeManager+ThemeSwitch.swift */; };
-		36AD4F2C56B1003916929BB0C207670A /* FZBuildingBlockCompatible+UIBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7B940EF0A234DEF67732A80D493AF73 /* FZBuildingBlockCompatible+UIBarButtonItem.swift */; };
-		3778A06F19C5F5368C960C9405B7CE28 /* UINavigationController+Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608E7178948EE07448C91728015D2C4C /* UINavigationController+Query.swift */; };
-		395A36ED3DEC29A1C99B9A339392DB35 /* UIBarButtonItem+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD5C18AF875A545CB6B8D8DBCA5D04 /* UIBarButtonItem+Closures.swift */; };
-		3A0FCF63A2910C8B5EEADE8078B2BB93 /* KeyboardObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7541BC2B4B94C21D13490C821B9F7F /* KeyboardObserver.swift */; };
-		3B349EA64F717CF94C352F2F6A821DD3 /* FZTableViewSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49145A3D69AFB6D5FBBA61538FB289EA /* FZTableViewSection.swift */; };
-		3C6785F1ED854AD3846ADA7ADA7F55A7 /* FZUIBarButtonItemClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D11FBD8F995CF849B86C43822D332FC /* FZUIBarButtonItemClosureHandler.swift */; };
-		419C7C29B2B883DAF3E2277BCB7AB645 /* UIView+Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21D679DAC6BBEEFB06FE2048F032C7B /* UIView+Position.swift */; };
-		41B8343645A6DE298B55B24E2315FC70 /* FZBuildingBlockCompatible+UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10EEFAA37A62635D735605707C63382 /* FZBuildingBlockCompatible+UIApplication.swift */; };
-		42C90CED5AAA71521883F27605CD552A /* UIFont+TTC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9DE7C26D679702B0A5F34AF1B93F266 /* UIFont+TTC.swift */; };
-		440BADF942C579B9E8C1525591340687 /* Pods-FZTheme_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 24554C4D0CD9492A822738F0CDD3CF18 /* Pods-FZTheme_Tests-dummy.m */; };
-		48307D91890075F65315E60048C13F0C /* UIControl+TouchArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = A279774E09F56CA92CDD32815EBD9D33 /* UIControl+TouchArea.swift */; };
-		496F409B355F6347D14162E409A2F011 /* UINavigationController+Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E241F23E4FBD3951F070F390C3A7068 /* UINavigationController+Root.swift */; };
-		4B3CF181FC5E76AD3D79BECB613D4F3D /* FZLargeImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384D52FD3B454360136DECA37540137C /* FZLargeImageView.swift */; };
-		4B5EFA9F83394432AEA074FBFC2E0786 /* String+Pinyin.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBEA5439F32274B5EDF775FB4162D98 /* String+Pinyin.swift */; };
-		4BC13559CFE3FB1DB46057D3039773C9 /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40872CB96BA2AF81B0D14C64E4B814A6 /* UIColor+Hex.swift */; };
-		4CC41A8BBB6422AA1D9516550D715C3F /* UINavigationController+StackManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F948BBBC0CD3BC9098387C8230911AA /* UINavigationController+StackManager.swift */; };
-		4D76A0D2E48E17BD27CF8DDE01C1BCDF /* FZCommonCryptoAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F155CA9AB15AC3496CFB0218E434F0E /* FZCommonCryptoAlgorithm.swift */; };
-		52E44AF32A57A7BFE1058756B06C4C01 /* FZRouterLoaderProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02D18F37CFEC12A079410F684775487 /* FZRouterLoaderProtocol.swift */; };
-		53CEFB034CB027CA56D8DED56E8E1126 /* UIImageView+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEBF9DB802F33EC273D4C67D461871E /* UIImageView+GIF.swift */; };
-		5577F3F85DF12542922D7FEDCCB1D440 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F7603019D198772DC77E64314527F8 /* UIView+Snapshot.swift */; };
-		55B4F7D592696349F25785966F82B5C4 /* Pods-FZTheme_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF0CB015A9F09517EB8A859B5F497033 /* Pods-FZTheme_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		59FF6C62C2F0F78B63048055A2175BB2 /* UIView+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5B14532081C0F7CD4BE5A000DBDA7E /* UIView+UIViewController.swift */; };
-		5ABA649F5854BB60B53F2FAAE1478F8C /* UIImage+Copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C137BEA05DA3EFAF459ECCF33DD5DA /* UIImage+Copy.swift */; };
-		5EC5D3CD9D4C708865CD69C56066F8AB /* Tools.modulemap in Resources */ = {isa = PBXBuildFile; fileRef = F414AF775D055BFB0C380C39425C6590 /* Tools.modulemap */; };
+		3D3D7141F756FC73D91979A9FF82E98E /* String+CommonCrypto.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E17A352A9C1056C44BBF22514BC28F /* String+CommonCrypto.swift */; };
+		3FA1FD12F55882EC2A14117CACB83CB7 /* UIView+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14D9DE99B46B773FE6B5F058496DB2E /* UIView+Color.swift */; };
+		4720F9D8C8B9D437356D077EB3F1755D /* Pods-FZTheme_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF0CB015A9F09517EB8A859B5F497033 /* Pods-FZTheme_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		49BB3F8B0226D41F86A6F229C1011D4C /* UINavigationItem+Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A340C278E41EFE56B4821C75032384 /* UINavigationItem+Indicator.swift */; };
+		4A301E1726CB73B67EA243152C2723F5 /* FZRouterExecute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB45BB6D4524BCF614A0DED4E836C41 /* FZRouterExecute.swift */; };
+		4CBBB0B40952CCCBBE6EC4EDF1FFC34F /* FZTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3488F8D9539111D8C6B30893A0EF8 /* FZTableView.swift */; };
+		4FA34176E07DDFF9225CB81A08BA379E /* FZRouterModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855221763FF9F1F36FD19AA1435047A3 /* FZRouterModelProtocol.swift */; };
+		561003A756CC032C032E092BD07143E1 /* FZContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A310057346613A4578B47243EF36E12B /* FZContainerView.swift */; };
+		574CA935FD27FDBEE13D6DEDD63E8A09 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		579678D3404586785FAB7DF33E9B98A9 /* FZBuildingBlockCompatibleValue+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1C46E3B7B7A264529A9C4A84E94164 /* FZBuildingBlockCompatibleValue+String.swift */; };
+		57FB91FEC357FD85FE9B8BB895986511 /* UIView+BorderLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB60049480479CCD185EF4D07B0A410 /* UIView+BorderLine.swift */; };
+		5AF5C4799F3C4C3D02148736DB22C421 /* UIImage+Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F3EDA84CE2A495D03DD157DBDB7582 /* UIImage+Rotation.swift */; };
+		5B3E5FD36BE2E6DE6FF729740E8B4B45 /* UIBarButtonItem+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E858B6281DA3AB4E426CDDE170093161 /* UIBarButtonItem+Handler.swift */; };
+		5BB2179EE13445524AAABCA1D06D38CF /* Pods-FZTheme_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 24554C4D0CD9492A822738F0CDD3CF18 /* Pods-FZTheme_Tests-dummy.m */; };
+		5C483A2647DF58D44F103B30F099F9E2 /* FZLargeImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384D52FD3B454360136DECA37540137C /* FZLargeImageView.swift */; };
+		60ABBB8CD3B7CE69B27122119DC724E7 /* UIView+Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF2BFE6A9339E8C17BC63C1C2A42FDD /* UIView+Layout.swift */; };
 		60D6E9C6CB6C56010D63B072D397E2C8 /* FZThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E481647BF68055D2A6D6FECF8FB78F38 /* FZThemeManager.swift */; };
-		60DEB61C6EA508EB67AB99035EB4EAB0 /* NSAttributedString+ConvenienceInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8263385BE86B7345A683C8E63DEBE6 /* NSAttributedString+ConvenienceInit.swift */; };
-		61C704C09EC50E2382ACB38E01375556 /* FZTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3488F8D9539111D8C6B30893A0EF8 /* FZTableView.swift */; };
-		620D9FC23C4A4B2A77A1674546ECF853 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
-		6445C1637DB5F110F734BFEA39C0574B /* FZBuildingBlockCompatibleValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89FB8CE34B4805C8FF4B0F6A36ACE31 /* FZBuildingBlockCompatibleValue.swift */; };
-		6507BBE62145F66FF5A3FF1BBD8F45EE /* NSMutableAttributedString+Set.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E64DDC96C1A7A2387A7C1B2DDAA9E7 /* NSMutableAttributedString+Set.swift */; };
-		661F0910A27EB235AF72C2774FD0760A /* IFAddressTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A76056C71CB16FA48D2855FEF66D58 /* IFAddressTool.swift */; };
+		60EA78C8C9DA380AD7EA602C83D18750 /* String+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3933B14E4D01C9FF82BD2091A1ACF7F6 /* String+Size.swift */; };
+		614ADCDD0CB91B3B86A4FC098E40FCB6 /* NSMutableAttributedString+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F0FE3B63EFF5E15F7843447408D390 /* NSMutableAttributedString+Add.swift */; };
+		625262C7067EB0CE4325D2724AABCFE9 /* UIControl+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2596540AE940D8424DFF394330541B6 /* UIControl+Closures.swift */; };
+		634E47C4A39B7AD9999027EC50DEB198 /* UIImage+WaterMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12F68AB6E192239C22110037B9E7D3D /* UIImage+WaterMark.swift */; };
+		645A8C78106691765CCECF4FFBD91F7C /* FZUIGestureRecognizerClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F10E8DDA29CF76475E2FE5D1C213E5 /* FZUIGestureRecognizerClosureHandler.swift */; };
+		656750EA16DD02E35AE2A3DA171683C5 /* FZRunTime+MethodSwizzling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CF3276C9E1AB42A500E61114A7831E /* FZRunTime+MethodSwizzling.swift */; };
+		66174209BADD30C656F183EBD2DCAC5E /* UIApplication+SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18E55CD033DD1BD00D5653150C360D9 /* UIApplication+SafeArea.swift */; };
 		680A8AAAD3B62F7DA355F9EFD0312277 /* NSObject+Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C231C6A09E0B86074DD699A351AF33 /* NSObject+Theme.swift */; };
-		684494A583D377536C3A48AD4C28EAA4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
-		69DBE476B6B6EB3ED2BF8FD7B5396CF3 /* FZBuildingBlockCompatible+UINavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAA139D3D15DC2470EE56E283892982 /* FZBuildingBlockCompatible+UINavigationItem.swift */; };
-		69FAC17B064FB9EE8CA8D2A623680FB7 /* FZBuildingBlockCompatible+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965613EE5CDDD3A79F19CFA2373EB765 /* FZBuildingBlockCompatible+UIViewController.swift */; };
+		6967454B64CE1A57F3167F1D20A6780B /* KeyboardObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7541BC2B4B94C21D13490C821B9F7F /* KeyboardObserver.swift */; };
+		6973790E9670E64A8810DC20B0CFFF50 /* NSMutableAttributedString+Set.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19E64DDC96C1A7A2387A7C1B2DDAA9E7 /* NSMutableAttributedString+Set.swift */; };
+		69ADC3403CD5A8E7B20336183C45F5A5 /* UIView+Gesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2FA5A30931E4DAF164A27DB9BE400D /* UIView+Gesture.swift */; };
 		6B314983ADC80FD809B01581522E6679 /* FZThemeMachineProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A9E9DF9E64844DDCCDBB7838C96CB0 /* FZThemeMachineProtocol.swift */; };
-		6B57294DFF3B1210CD6EFDE4B3BD9D27 /* UIView+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14D9DE99B46B773FE6B5F058496DB2E /* UIView+Color.swift */; };
-		6B8311816AD4D95E9CA66E23DC661904 /* UIButton+ImageAndTitleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F75FA8F903FC4D180EE5EA85A612AEB /* UIButton+ImageAndTitleLayout.swift */; };
-		6BA28FC740D2917FCB6E1A19A1AB7059 /* UIPanGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2874FF66975F65B4BEE42D0E2FF79E /* UIPanGestureRecognizer+Closures.swift */; };
-		6BA669160457BF244D27F74808E3107F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
-		6BF8032E74F1F0C0BC8FE26FCA0C7BD4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312B988EF117AE4DE76A268D970131FE /* UIKit.framework */; };
-		6BFB674E288E6C2577892E02028B0A06 /* KeychainPasswordItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51E854549E9911C4F2E1D43E3059A0F /* KeychainPasswordItem.swift */; };
-		6D7FAA46935721A1A2C6883F466A352F /* FZUIGestureRecognizerClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F10E8DDA29CF76475E2FE5D1C213E5 /* FZUIGestureRecognizerClosureHandler.swift */; };
-		6DDA9C35B5534E279F723EC034F22D6C /* String+URL.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCFC9814B99CE866C4049CA1473D6323 /* String+URL.swift */; };
-		70F4A913FFE14BBD99B4C98F4A21E69E /* UIImage+Resize.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A37A7058AA65EEA87A54221C683282 /* UIImage+Resize.swift */; };
-		71B16BD24713D4E61784D1B86CF04C2D /* String+Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31C3A315D4640BB108A22265476BF6A /* String+Emoji.swift */; };
-		733FF1E0829A7DA690C6CC533EED69B2 /* UIView+BorderLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB60049480479CCD185EF4D07B0A410 /* UIView+BorderLine.swift */; };
-		73DFA72B8C15606FD8DDC15EA65E2580 /* NSMutableAttributedString+Insert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E3F534F131BF9DA5584B0600F916A /* NSMutableAttributedString+Insert.swift */; };
-		7433D76D7E3AF65130AB00EE1B40DF21 /* UINavigationItem+Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A340C278E41EFE56B4821C75032384 /* UINavigationItem+Indicator.swift */; };
-		74A0B935DA6BA95A734D730AF312CC58 /* UILongPressGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265C2C6E4A56D14EA72561B096AFD2AE /* UILongPressGestureRecognizer+Closures.swift */; };
-		79469C1339DF5763193B965C9CCD155B /* UINavigationController+NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B298F9620FC5055A1F3953216691CF3 /* UINavigationController+NavigationBar.swift */; };
-		79C1A72AAAD83F30C31B7FB823C64AA0 /* FZContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A310057346613A4578B47243EF36E12B /* FZContainerView.swift */; };
-		7A204FC638130600AF06266FDE7BB010 /* UIApplication+StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4FBF2D2FBA988E5797615FCBA0EF879 /* UIApplication+StatusBar.swift */; };
-		7AA9ADA152CB5206DE52ACB5B75BFB76 /* UIImage+WaterMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12F68AB6E192239C22110037B9E7D3D /* UIImage+WaterMark.swift */; };
-		7D2EB5C08823001AC4B7D49065F17975 /* UIView+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55A1D169CA92C6C100AF9AFC61971DCA /* UIView+CornerRadius.swift */; };
-		7E2FE8025B52DD72666E7C6EDA80EF73 /* FZTableViewCommonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071AFD7E9C2957B57CA671192740510A /* FZTableViewCommonCell.swift */; };
-		80BD4E7D3F5EE56B0ED9A807FAF557E3 /* UIColor+Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37474E3D9AF1A13CBD13E0A8A6FC897C /* UIColor+Random.swift */; };
-		813C6DDA0A2516F24BE13439FB2AE689 /* UIImage+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC515C9E463D625419C5C972B72E9747 /* UIImage+Color.swift */; };
-		813EAE8B5D77BCB7DD33280A6B0B2408 /* FZTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075F695AB75FEE118BFDAF2E32169265 /* FZTextView.swift */; };
-		8181E2B717CC4C91E3CFCA6D9E356988 /* String+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3933B14E4D01C9FF82BD2091A1ACF7F6 /* String+Size.swift */; };
+		6C28512305BCA545249FA9ECDC436DA4 /* FZTableViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0388C3BFEF5C884757AFE3C972421C44 /* FZTableViewManager.swift */; };
+		6C3E34AD941A90C3F50DF7D13AD7A9A2 /* FZBuildingBlockCompatible+UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D1E27F8E69DB99EAC1048A76C4D810 /* FZBuildingBlockCompatible+UIFont.swift */; };
+		6C58D5BD44B275245D0CC9327629B24E /* FZCommonCryptoAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F155CA9AB15AC3496CFB0218E434F0E /* FZCommonCryptoAlgorithm.swift */; };
+		6D3E249054AAB1E06ECB085A09776B2A /* UIImage+Copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C137BEA05DA3EFAF459ECCF33DD5DA /* UIImage+Copy.swift */; };
+		6D4AF3B9B78057717127FE7D0B349796 /* Array+SafeAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B54866CEE20EDDECD9DB26736008EF6 /* Array+SafeAccess.swift */; };
+		7EF8CCFEDFDBF4F4EF81C08F9C5B0B92 /* UIView+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5B14532081C0F7CD4BE5A000DBDA7E /* UIView+UIViewController.swift */; };
+		8225AAA4456D1ABF529B326F20140E4E /* String+Trim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA658E52E00CB689DEC1BFE84EDEB21 /* String+Trim.swift */; };
 		8243D92AD6B74DCF5D4DE027E9F0004D /* FZThemeWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D922189DE59A16956ED77BED9AF84C11 /* FZThemeWrapper.swift */; };
-		82B2F4A37ED438516EACAE0F53CB7C2A /* UIView+Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509E4F80600A25881AB7FEB3CC52C25E /* UIView+Shadow.swift */; };
-		838271A8E418391A57AE8D2C78926F5C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
-		838E6D456E5E78734E0BDFC14B2C41E4 /* UIImage+CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3968777CA4C1E81E68B93E565621C893 /* UIImage+CornerRadius.swift */; };
-		840F1C58CF6A46B4D641E0DE999A183A /* NSMutableAttributedString+Append.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408E75DAA802971454550B2F1EA09D54 /* NSMutableAttributedString+Append.swift */; };
-		8449F55094AB4ABE54C040E6435FA038 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6054DD10F1CEEB486D1C9EE48C37F4C /* UIScrollView+Snapshot.swift */; };
-		88411BB21B8CDEC1DD55BC9296895710 /* FZTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C730B1569DEAEA5C732280F0FA1FD2 /* FZTableViewCell.swift */; };
+		871E978C1341C5FBF016E5BD08708336 /* FZBuildingBlockCompatible+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA54D5AC1A779634D78988545CD7D218 /* FZBuildingBlockCompatible+UIView.swift */; };
+		8793704AB40585661D716DDCEB5091D2 /* FZBuildingBlockCompatible+UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BD871108DB0C6E5ABCBD9B6968B35C /* FZBuildingBlockCompatible+UIImage.swift */; };
+		87D8800E2C0CC2B2F17DA5364A521B62 /* NSAttributedString+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB0A12ABE4AFB5390AD6E0496D29B094 /* NSAttributedString+Size.swift */; };
+		880A8246CAEBE62CE06BA538AB4C123E /* UIPanGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2874FF66975F65B4BEE42D0E2FF79E /* UIPanGestureRecognizer+Closures.swift */; };
+		88FE1B3B125D6E16E8D9746D7A68C1E5 /* UILongPressGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265C2C6E4A56D14EA72561B096AFD2AE /* UILongPressGestureRecognizer+Closures.swift */; };
+		8CBE50F5C623C9C2F87746EE21E61B20 /* FZBuildingBlockCompatible+NSAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D96F78088306B763266CB9204F4EF0 /* FZBuildingBlockCompatible+NSAttributedString.swift */; };
+		8E99F2D1D6207BF07FE91E543938FD09 /* FZBuildingBlockCompatible+UIBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7B940EF0A234DEF67732A80D493AF73 /* FZBuildingBlockCompatible+UIBarButtonItem.swift */; };
+		8EDF6349074A6B3710F1AB62800D1ED0 /* UIApplication+StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4FBF2D2FBA988E5797615FCBA0EF879 /* UIApplication+StatusBar.swift */; };
 		8FA449B22E4DE99772AF7E50DE183DF4 /* FZThemeManager+ThemeLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25DB9A3F623917B940C999B8E94A005A /* FZThemeManager+ThemeLoad.swift */; };
-		953DE82FD71BEF536A90308426125793 /* NSMutableAttributedString+ConvenienceInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055BF78D9D4885C862D5A91E5846439F /* NSMutableAttributedString+ConvenienceInit.swift */; };
-		95C0FF51E03DB7E1D801081260069608 /* String+Trim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA658E52E00CB689DEC1BFE84EDEB21 /* String+Trim.swift */; };
-		95E3B567AD9FE2A6F5706C0AD9ED8633 /* FZBuildingBlockWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97AA138A99560872CFFF3D49D311240B /* FZBuildingBlockWrapper.swift */; };
-		9808CCD66D99F025ACB78ACB3166DB5E /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = F885FB2720839E26903CC554D8186955 /* UIImage+GIF.swift */; };
-		980C45C1DA1F57D90310381FA2D0830C /* UIImage+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9972FF9D72221471D7F1D95EDEB8A2 /* UIImage+String.swift */; };
-		9BB18002BD662219F637DC269D287167 /* FZRouterExecute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB45BB6D4524BCF614A0DED4E836C41 /* FZRouterExecute.swift */; };
+		9017C0BB0AC0E3274C7C45FFD8A8B8D0 /* FZBuildingBlockCompatible+UINavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAA139D3D15DC2470EE56E283892982 /* FZBuildingBlockCompatible+UINavigationItem.swift */; };
+		90BE5AB33990859F31BE8F495D7190A5 /* String+Base64.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A93B608CA8C573B53541ADA6BDF1AB /* String+Base64.swift */; };
+		91406F01465332EC03129100701670FC /* UIScreen+TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679489CE3F1049691BEF4E302D1A8463 /* UIScreen+TabBar.swift */; };
+		95E08C6E1ABD15A37B4DC7E437DE1B20 /* FZBuildingBlockCompatible+UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10EEFAA37A62635D735605707C63382 /* FZBuildingBlockCompatible+UIApplication.swift */; };
+		979D4414E9F4C9774F2BC7B553266F98 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6054DD10F1CEEB486D1C9EE48C37F4C /* UIScrollView+Snapshot.swift */; };
+		98A31D21E0555677F519BF9476F581F5 /* UIDevice+Disk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB75C39B04CAC93A20BDF3EC012B8EC /* UIDevice+Disk.swift */; };
+		9B83DAB7D46AC6164382571C3D2AE5E6 /* FZRouterURLUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5046B8E834FBBB9AE51F775F48D284E /* FZRouterURLUtil.swift */; };
 		9BB24E2771F13CDF2A98F75EDE3F48A3 /* FZTheme-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FFFE080D9B2F23C5C158B1291956DAD2 /* FZTheme-dummy.m */; };
-		A02350C55EDABB2E9ED51B7BBF6E209F /* FZRouterModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855221763FF9F1F36FD19AA1435047A3 /* FZRouterModelProtocol.swift */; };
-		A04960CA04DA9CE81DA7462A90BEEF9B /* FZBuildingBlockCompatible+NSAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D96F78088306B763266CB9204F4EF0 /* FZBuildingBlockCompatible+NSAttributedString.swift */; };
+		9FE9455A7C9486F885266C5143F162BF /* FZRouterLoaderProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02D18F37CFEC12A079410F684775487 /* FZRouterLoaderProtocol.swift */; };
 		A30308009E6AB650FD73CCB12F02D35D /* FZThemeCompatible.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EAFA027E4DF4779502D05DF5B7B5C3 /* FZThemeCompatible.swift */; };
-		A308F01854A6EF3E4BA9CF92947A11D1 /* FZTableViewCellModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8DD47B8E6FC0BEDBD378252942B400 /* FZTableViewCellModel.swift */; };
-		A3E82DBA1820F62297676080F15CEFE8 /* FZTableViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00F9E721F271A97D708453D873E9A2F /* FZTableViewRow.swift */; };
-		A688CBE528571245366911C1429B7ADB /* FZRuntime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7D4D7C6DDD30D3E0EE79A454E36569 /* FZRuntime.swift */; };
-		A86CE8CA8EE81CC4C50B45C7D398DC1E /* UIView+Gesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2FA5A30931E4DAF164A27DB9BE400D /* UIView+Gesture.swift */; };
-		A934C3B2897DC09AFD7EB754FE161543 /* UIView+Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF2BFE6A9339E8C17BC63C1C2A42FDD /* UIView+Layout.swift */; };
+		A41DFAC94978309684BAEF37958C01EE /* UIScreenEdgePanGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CBE54C9678390DE930FBA309759418 /* UIScreenEdgePanGestureRecognizer+Closures.swift */; };
+		A428DD76AB9DE990F8757D61C900BC55 /* FZBuildingBlockWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97AA138A99560872CFFF3D49D311240B /* FZBuildingBlockWrapper.swift */; };
+		A47E8BA873C616859590255BD9FBD08E /* FZRouterPlistLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162DF8AD5B0FA9BC2FD53242D205018B /* FZRouterPlistLoader.swift */; };
+		A48FFF516C5498FF039D13C6FC89532A /* UIBarButtonItem+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD5C18AF875A545CB6B8D8DBCA5D04 /* UIBarButtonItem+Closures.swift */; };
+		A5D6CAC1E3EEC9291256960B0482DE9D /* FZBuildingBlockCompatibleValue+Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E81C6A2354082F5735B6D8E4D2E2D06 /* FZBuildingBlockCompatibleValue+Data.swift */; };
+		A78CD10D625E321535316A30A3199842 /* String+SafeAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CADDF0D21F342D8614DEE2F7D88BF1 /* String+SafeAccess.swift */; };
 		AA34965B367E3A037A17BE1B2AD8B997 /* FZThemeConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BB626D4C574739F39D293E6B8CDE97 /* FZThemeConfiguration.swift */; };
-		AB0674FC4F01B6E2BEB7DF2E2B3F68FD /* Pods-FZTheme_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 44434076E4EFA817C86BE53ED2FAF07D /* Pods-FZTheme_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AB808D5A2BCBC754BEEE3A41417D6612 /* FZAttribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69399D53A798C5C8304568A5BED901F1 /* FZAttribute.swift */; };
-		B017A3CF1438439B70B051008D176CD4 /* UITabBarController+TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B36C1A4D0AC75B259DEDAB9C785755E /* UITabBarController+TabBar.swift */; };
+		AA4FC85B9FC42A425CB08B2FF8173E62 /* IFAddressTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A76056C71CB16FA48D2855FEF66D58 /* IFAddressTool.swift */; };
+		B0C01F95353340D49CE204BAB2FF6CC7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
 		B1F4DC6A005AA0DE8F7F383BA1E1398C /* FZThemeStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3047DD20710FDEF7B7FD37C38F7CC69D /* FZThemeStyle.swift */; };
 		B21E7E00276756E9C733D3DF6766E2E0 /* FZThemeManager+UIBind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADD8105E2CC2DC207508F8B637B16F /* FZThemeManager+UIBind.swift */; };
-		B2B4B0B33834F36C9693D8F26133200D /* FZTableViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0388C3BFEF5C884757AFE3C972421C44 /* FZTableViewManager.swift */; };
-		B51A58F11FE3F48498B2126DA1FDF273 /* FZBuildingBlockCompatible+UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73BD871108DB0C6E5ABCBD9B6968B35C /* FZBuildingBlockCompatible+UIImage.swift */; };
-		B5D18023EC909CCABA35DABC5CDCE016 /* Array+SafeAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B54866CEE20EDDECD9DB26736008EF6 /* Array+SafeAccess.swift */; };
-		B98880E2A40AD2188CA7D0138B647F7B /* FZBuildingBlockCompatible+UIGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73F45C4165C8AE21BF57868217858791 /* FZBuildingBlockCompatible+UIGestureRecognizer.swift */; };
-		BCC843113075FD71BB52C24C875C91F7 /* FZContainerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E722A15AD9F7B34F19443C9E8FED6AE /* FZContainerViewModel.swift */; };
-		BE26250A77B6C5C2ADCB5CA6F868F5B7 /* FZGradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A382B1B3DA65A14D9D0E24A2FCDBC5 /* FZGradientButton.swift */; };
-		C4A8B7FFBFEEE04E591A50877F941B4D /* FZBuildingBlockCompatibleValue+Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E81C6A2354082F5735B6D8E4D2E2D06 /* FZBuildingBlockCompatibleValue+Data.swift */; };
-		C6143D5975481DD0A5CBDD8AEDF22F7C /* FZBuildingBlock-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911A2AB58961B6869D8C5AC3AF3B477 /* FZBuildingBlock-dummy.m */; };
-		CE3C73BB16F84124E398903C0420B60D /* FZRouterDataPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A220FE8CA0F0B97F3B2BE58D55FCE9 /* FZRouterDataPacket.swift */; };
-		D013D94D51D3F7166AFEE61CC468BEDF /* UIFont+TTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6AF9361A314046F84E594574BDABD1C /* UIFont+TTF.swift */; };
-		D0406B7953E1E7C1C511B2E22B8FA8E7 /* FZBuildingBlockCompatible+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA54D5AC1A779634D78988545CD7D218 /* FZBuildingBlockCompatible+UIView.swift */; };
-		D0F04A0D2200D90FDFD7D8A51E4B90B8 /* UIBarButtonItem+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E858B6281DA3AB4E426CDDE170093161 /* UIBarButtonItem+Handler.swift */; };
-		D3D0C4D63FF6776F8A292CA9DE9B5A7B /* FZBuildingBlockCompatibleValue+Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530A5B38602860C3842F14486E41BFF4 /* FZBuildingBlockCompatibleValue+Array.swift */; };
+		B490AE3089218DE74A5DEBA26A12301C /* UIView+Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21D679DAC6BBEEFB06FE2048F032C7B /* UIView+Position.swift */; };
+		B6066D87027E22FDCAB0DFE1D16742B5 /* FZTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075F695AB75FEE118BFDAF2E32169265 /* FZTextView.swift */; };
+		B8E991A16D0D227D9A1282B5BD8C5FC9 /* Data+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EB9038415B728E5D0CFD5CEF1849CD /* Data+GIF.swift */; };
+		B945186C7D070C318BE7B3E1DB0F3C76 /* UIFont+TTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6AF9361A314046F84E594574BDABD1C /* UIFont+TTF.swift */; };
+		BB4ABC80B18EC7CEFE85C52BB7606D15 /* FZTableViewCommonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071AFD7E9C2957B57CA671192740510A /* FZTableViewCommonCell.swift */; };
+		BCFA79F42D5816AE090304B9E1C61611 /* Data+JPEG.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50496D749270440CD4AD01157491A4D /* Data+JPEG.swift */; };
+		BD2754E92321ACFEA7BB2AA8F7AF58D1 /* FZTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B461AF312864A98C2709A4400B2FBA8 /* FZTextField.swift */; };
+		BF5DE71254EB9CEAC9093D5DE449F1B3 /* UIColor+RGB255.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7A626252331AE4E773818B6C13B2DB /* UIColor+RGB255.swift */; };
+		C155A24A56D197CC8EC1293B78CB054C /* UINavigationController+Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608E7178948EE07448C91728015D2C4C /* UINavigationController+Query.swift */; };
+		C1AFABC61C9B84682ABFBD60C6FCB074 /* UITapGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD363411ED857EE8CD2672072C06B3F3 /* UITapGestureRecognizer+Closures.swift */; };
+		C2388B64338EA2E7FE1F27E8FB340B93 /* UIFont+TTC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9DE7C26D679702B0A5F34AF1B93F266 /* UIFont+TTC.swift */; };
+		C27DEC243D25AF875F9A70D79FDFDBBB /* UISwipeGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE6FB05ABF83477627F68E6FEA2694 /* UISwipeGestureRecognizer+Closures.swift */; };
+		C32E98B1B46494C1A48ED430DE4509B5 /* NSMutableAttributedString+Insert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E3F534F131BF9DA5584B0600F916A /* NSMutableAttributedString+Insert.swift */; };
+		C3BA3B6908FF0DF22B7EBAC830AD89C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		C6B7709ECACC8B9B8CC60ADCB4B0FEA1 /* FZRouterManagerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B121BAC0B2D97822AFD1E5D8FAB3DD /* FZRouterManagerProtocol.swift */; };
+		C6D2DA7721D345E81B4101F3D5F77F51 /* FZBuildingBlockCompatibleValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89FB8CE34B4805C8FF4B0F6A36ACE31 /* FZBuildingBlockCompatibleValue.swift */; };
+		C9CFD305BD829541491E1C35A2F9DF3B /* NSMutableAttributedString+Remove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152E27080F2D65A4BC6E3BB69DEB8CF7 /* NSMutableAttributedString+Remove.swift */; };
+		CA863A54F1E7E73826FB902D147CCD7F /* UINavigationController+NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B298F9620FC5055A1F3953216691CF3 /* UINavigationController+NavigationBar.swift */; };
+		CCB27AA7892527A66321FD74B93B9847 /* FZRouterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3E0080D39A147C3425B0C06C2FB5 /* FZRouterManager.swift */; };
+		D0F96C76B89105EB52F69E68EE27E99D /* FZBuildingBlockCompatible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678C105514B63F14B0FC7063948B699A /* FZBuildingBlockCompatible.swift */; };
+		D12E916E8E57B95AF748E6C239A6715E /* FZGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826D29A05FAC88712BE22173EF1E2B0E /* FZGradientView.swift */; };
+		D1F827485139B00FA33A43134110B08A /* FZBuildingBlock-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CF06AC25FA3D62AD131C57A39A3ECBF /* FZBuildingBlock-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3CFC6E882E9B667B2DBB2EB49758AE2 /* UINavigationController+Root.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E241F23E4FBD3951F070F390C3A7068 /* UINavigationController+Root.swift */; };
+		D41BAE3E4C2DDCCAD533D48782930616 /* FZBuildingBlockCompatible+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965613EE5CDDD3A79F19CFA2373EB765 /* FZBuildingBlockCompatible+UIViewController.swift */; };
+		D432541E7BBF6BD926666F00D7FF25E7 /* FZBuildingBlockCompatible+UIGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73F45C4165C8AE21BF57868217858791 /* FZBuildingBlockCompatible+UIGestureRecognizer.swift */; };
 		D45D254ED561C2489F2141148FD5A3B0 /* FZTheme-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A599008E63E86E3E4CFA0C1A20D56DF /* FZTheme-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D5B0139ACD612847999C8D43517D3D91 /* Data+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EB9038415B728E5D0CFD5CEF1849CD /* Data+GIF.swift */; };
-		D64B9343F6F0AB188D92D8BB9D43BD06 /* FZRunTime+MethodSwizzling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CF3276C9E1AB42A500E61114A7831E /* FZRunTime+MethodSwizzling.swift */; };
-		D979014407B108593EB938EEE9056AAD /* ObserverSafeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6727F09A2FBA31FE1E9645EC6499208F /* ObserverSafeManager.swift */; };
-		D9D7E028CC64921A9DFD584E41DEFA43 /* FZBuildingBlock-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CF06AC25FA3D62AD131C57A39A3ECBF /* FZBuildingBlock-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DE2F3759999C1C40BC38A96CC1AC7C65 /* FZRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D265D8EB98E96943AF6736C3FB6EF1 /* FZRouter.swift */; };
-		DFFBFB71EF9E3A60A7E5C966EDDBA8A0 /* FZBuildingBlockCompatibleValue+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1C46E3B7B7A264529A9C4A84E94164 /* FZBuildingBlockCompatibleValue+String.swift */; };
-		E2431988D6E1BA0F904233E2A68884BF /* Data+PNG.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7BEBBB7588B2343CB5D9447EE5FB92 /* Data+PNG.swift */; };
-		E471F7A1FAEA4DB6DEDD6C52E0EED551 /* NSAttributedString+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB0A12ABE4AFB5390AD6E0496D29B094 /* NSAttributedString+Size.swift */; };
-		E4E31757FC0C4E607EEA45F33AAB3553 /* FZBuildingBlockCompatible+UIScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 118988030EED706EA602E50A332F6CD5 /* FZBuildingBlockCompatible+UIScreen.swift */; };
-		E60E338AC7AE69409E64730949B19678 /* KeyChainUniqueIDManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DABD22343141EC7399D5F5BDA9546E0 /* KeyChainUniqueIDManager.swift */; };
-		E665DD558FC70B34E3DC0243C3EF253B /* UIColor+HSB.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37C1C430C4F8136297BF515C6EA3C08 /* UIColor+HSB.swift */; };
-		E901AEEDCCB6B3DD9F1413F643D0B88B /* UIImage+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E5089D2F5AAFCD2798EA6F8AFF9067 /* UIImage+FileName.swift */; };
-		E95557D1BE7C6A6B448862C5D6213FD4 /* ObserveAble.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA52804C4D63A5CE0F14EAE3633F278D /* ObserveAble.swift */; };
-		EB385FAFAC87F906CCACCD96A0050CDB /* UIScreen+TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679489CE3F1049691BEF4E302D1A8463 /* UIScreen+TabBar.swift */; };
-		F1DDF546BD0031D189490BC256AC5699 /* NSMutableAttributedString+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F0FE3B63EFF5E15F7843447408D390 /* NSMutableAttributedString+Add.swift */; };
-		F2D1B2E1084B621F31A2FB1591F16957 /* Data+JPEG.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50496D749270440CD4AD01157491A4D /* Data+JPEG.swift */; };
-		F3640ADD0804DC16EA6317711876167D /* UIImage+Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F3EDA84CE2A495D03DD157DBDB7582 /* UIImage+Rotation.swift */; };
-		F57F5FA8AC8C2FE14071449D7E91D13D /* UIViewController+TopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27E36BDD58643070F5C516AFF74F0F1 /* UIViewController+TopViewController.swift */; };
-		F7032600932997E665DA2E0A07CCED86 /* FZUIControlClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E22DF7AC3254DF759871D0253F8BF /* FZUIControlClosureHandler.swift */; };
-		F79BA10BBCB77C9908AD95408CB0C41C /* UIColor+RGB255.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7A626252331AE4E773818B6C13B2DB /* UIColor+RGB255.swift */; };
-		FA4C524602DC1042845A06A96F8F54C8 /* UIControl+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2596540AE940D8424DFF394330541B6 /* UIControl+Closures.swift */; };
-		FAC44F78AD53053C66242B39542882F7 /* NSAttributedString+Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261F37CCBA79EEE03A313D8E578FB9CF /* NSAttributedString+Range.swift */; };
-		FB497CE9A4888E87BEE2200F8A1800E8 /* UIDevice+Disk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB75C39B04CAC93A20BDF3EC012B8EC /* UIDevice+Disk.swift */; };
-		FC664B6828C6464F20011DCE32BB5033 /* FZTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B461AF312864A98C2709A4400B2FBA8 /* FZTextField.swift */; };
-		FCC465BD14F8ABE1D34CA1792247A117 /* UIRotationGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F5126E547650436D0E52F80D1F2676 /* UIRotationGestureRecognizer+Closures.swift */; };
+		D54EA4E970EABA3477C360B6EA9AF907 /* FZGradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A382B1B3DA65A14D9D0E24A2FCDBC5 /* FZGradientButton.swift */; };
+		D56339ACC8894915AD68C2F2A24BAB26 /* FZRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D265D8EB98E96943AF6736C3FB6EF1 /* FZRouter.swift */; };
+		D75F73AFECDB2F71512E2D8AA03E05D9 /* UIGestureRecognizer+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A59AD955C4A268D580D98856A22E1C6 /* UIGestureRecognizer+Handler.swift */; };
+		D913D035D130BF8FEF81C6781BAD31BB /* FZTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C730B1569DEAEA5C732280F0FA1FD2 /* FZTableViewCell.swift */; };
+		DAACD908B83CDC4234E4F4F54814E355 /* UIView+Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509E4F80600A25881AB7FEB3CC52C25E /* UIView+Shadow.swift */; };
+		DCCA14EECC5AB6FBF238F274C2D0CB0A /* NSMutableAttributedString+ConvenienceInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055BF78D9D4885C862D5A91E5846439F /* NSMutableAttributedString+ConvenienceInit.swift */; };
+		E204F309B854DDE478AA6A903742EAFF /* FZBuildingBlockCompatibleValue+Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530A5B38602860C3842F14486E41BFF4 /* FZBuildingBlockCompatibleValue+Array.swift */; };
+		E286F20D5D67F80A0056E062984B72C6 /* NSMutableAttributedString+Append.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408E75DAA802971454550B2F1EA09D54 /* NSMutableAttributedString+Append.swift */; };
+		E329E8736D639660F1D6CD0D6241EBE1 /* FZTableViewCellModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8DD47B8E6FC0BEDBD378252942B400 /* FZTableViewCellModel.swift */; };
+		EB45209C1045F2A797B2587DB3D08130 /* FZContainerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E722A15AD9F7B34F19443C9E8FED6AE /* FZContainerViewModel.swift */; };
+		EC078F88C2941FF96E0C291E67172BD4 /* FZUIBarButtonItemClosureHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D11FBD8F995CF849B86C43822D332FC /* FZUIBarButtonItemClosureHandler.swift */; };
+		ED1DEC8A54B3F552993EEBA2FEC49C44 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		F15888D5FE9888F519AAF5F988C853C2 /* UIRotationGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F5126E547650436D0E52F80D1F2676 /* UIRotationGestureRecognizer+Closures.swift */; };
+		F16CA7917E1871BAEF1DC60C06C47500 /* FZRouterExecuterProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99CC6E90CE818137C5DDEA7F50D2421 /* FZRouterExecuterProtocol.swift */; };
+		F16F0F4A1E8B5B111A7357D45790DB2A /* UIPinchGestureRecognizer+Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4146E27CE272DBE61353888C593A882A /* UIPinchGestureRecognizer+Closures.swift */; };
+		F1B02EF5DEB9A4595C81134AA4A09C68 /* ObserverSafeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6727F09A2FBA31FE1E9645EC6499208F /* ObserverSafeManager.swift */; };
+		F55536F30AE4FFD8778C929BD4EDF4AD /* FZTableViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00F9E721F271A97D708453D873E9A2F /* FZTableViewRow.swift */; };
+		F8DF66F081F36530A6E826DE54C8F8A1 /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A74045DF4C1D5FD12ACC20DC8391393 /* Observer.swift */; };
+		F9215B95BC8902083066E5FD95D0DA76 /* String+Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31C3A315D4640BB108A22265476BF6A /* String+Emoji.swift */; };
+		F9DD26DDC5310BB2F15B7D8C6A6BB0E2 /* FZBuildingBlock-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911A2AB58961B6869D8C5AC3AF3B477 /* FZBuildingBlock-dummy.m */; };
+		FA2E42759A3CD7E080211D98CE09DA7E /* UIButton+Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE363073F1916B24D5F1EC9BD5A0BA3 /* UIButton+Indicator.swift */; };
+		FE9839A83F8128C1258BD4F0C794DA32 /* FZRuntime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7D4D7C6DDD30D3E0EE79A454E36569 /* FZRuntime.swift */; };
+		FF41F6E1C34D88A059F4E40AB477458B /* UIImage+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E5089D2F5AAFCD2798EA6F8AFF9067 /* UIImage+FileName.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		65BCF8688E04C836AB1FA3BC18A46AD4 /* PBXContainerItemProxy */ = {
+		35356A1A0771C1678E6477C8975B060B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C72EE7B138AAD9D395FBF0D00DD62D49;
 			remoteInfo = FZBuildingBlock;
 		};
-		890996D3D214B64544D9F4D0D1E261A2 /* PBXContainerItemProxy */ = {
+		5605085D7F61897F8287600D2B06CE98 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DBDA0E6AF1532A88FCB6BD67D31061EC;
 			remoteInfo = FZTheme;
 		};
-		BD7B2BA3598C00881F5A07EAF1BCC38B /* PBXContainerItemProxy */ = {
+		DBB3A1AAB7B5D32EE06836147C49E0A3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -229,7 +228,6 @@
 		2D2FA5A30931E4DAF164A27DB9BE400D /* UIView+Gesture.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Gesture.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIView/UIView+Gesture.swift"; sourceTree = "<group>"; };
 		2F948BBBC0CD3BC9098387C8230911AA /* UINavigationController+StackManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UINavigationController+StackManager.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UINavigationController/UINavigationController+StackManager.swift"; sourceTree = "<group>"; };
 		3047DD20710FDEF7B7FD37C38F7CC69D /* FZThemeStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FZThemeStyle.swift; path = FZTheme/Classes/FZThemeStyle.swift; sourceTree = "<group>"; };
-		312B988EF117AE4DE76A268D970131FE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		37474E3D9AF1A13CBD13E0A8A6FC897C /* UIColor+Random.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Random.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIColor/UIColor+Random.swift"; sourceTree = "<group>"; };
 		384D52FD3B454360136DECA37540137C /* FZLargeImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FZLargeImageView.swift; path = FZBuildingBlock/Views/classes/FZLargeImageView/FZLargeImageView.swift; sourceTree = "<group>"; };
 		38719F8EB588B2FC3B11E81B0291AF54 /* Pods-FZTheme_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FZTheme_Example-resources.sh"; sourceTree = "<group>"; };
@@ -245,7 +243,6 @@
 		408E75DAA802971454550B2F1EA09D54 /* NSMutableAttributedString+Append.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSMutableAttributedString+Append.swift"; path = "FZBuildingBlock/Extensions/Classes/Foundation/NSAttributedString/NSMutableAttributedString+Append.swift"; sourceTree = "<group>"; };
 		4146E27CE272DBE61353888C593A882A /* UIPinchGestureRecognizer+Closures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIPinchGestureRecognizer+Closures.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIGestureRecognizer/UIPinchGestureRecognizer+Closures.swift"; sourceTree = "<group>"; };
 		4230F754CD40B932141B91082024ED22 /* FZBuildingBlock-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FZBuildingBlock-Info.plist"; sourceTree = "<group>"; };
-		436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		44434076E4EFA817C86BE53ED2FAF07D /* Pods-FZTheme_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FZTheme_Tests-umbrella.h"; sourceTree = "<group>"; };
 		49043494A17F166D09BBCFB4104DFB26 /* FZTheme-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FZTheme-Info.plist"; sourceTree = "<group>"; };
 		49145A3D69AFB6D5FBBA61538FB289EA /* FZTableViewSection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FZTableViewSection.swift; path = FZBuildingBlock/Views/classes/FZTableViewCell/FZTableViewSection.swift; sourceTree = "<group>"; };
@@ -347,6 +344,7 @@
 		CF962F944C5FE4876DD08FCFAB94AADB /* Pods-FZTheme_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FZTheme_Tests.modulemap"; sourceTree = "<group>"; };
 		D12F68AB6E192239C22110037B9E7D3D /* UIImage+WaterMark.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+WaterMark.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIImage/UIImage+WaterMark.swift"; sourceTree = "<group>"; };
 		D18DF57E18E3434C3B0B650FE847D22E /* FZBuildingBlock-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FZBuildingBlock-prefix.pch"; sourceTree = "<group>"; };
+		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		D2D265D8EB98E96943AF6736C3FB6EF1 /* FZRouter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FZRouter.swift; path = FZBuildingBlock/Router/classes/FZRouter.swift; sourceTree = "<group>"; };
 		D50496D749270440CD4AD01157491A4D /* Data+JPEG.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Data+JPEG.swift"; path = "FZBuildingBlock/Extensions/Classes/Foundation/Data/Data+JPEG.swift"; sourceTree = "<group>"; };
 		D6AF9361A314046F84E594574BDABD1C /* UIFont+TTF.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIFont+TTF.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIFont/UIFont+TTF.swift"; sourceTree = "<group>"; };
@@ -365,6 +363,7 @@
 		E858B6281DA3AB4E426CDDE170093161 /* UIBarButtonItem+Handler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIBarButtonItem+Handler.swift"; path = "FZBuildingBlock/Extensions/Classes/UIKit/UIBarButtonItem/UIBarButtonItem+Handler.swift"; sourceTree = "<group>"; };
 		E99CC6E90CE818137C5DDEA7F50D2421 /* FZRouterExecuterProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FZRouterExecuterProtocol.swift; path = FZBuildingBlock/Router/classes/RouterProtocol/FZRouterExecuterProtocol.swift; sourceTree = "<group>"; };
 		EA52804C4D63A5CE0F14EAE3633F278D /* ObserveAble.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObserveAble.swift; path = FZBuildingBlock/Observer/Classes/ObserveAble.swift; sourceTree = "<group>"; };
+		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		EC5906B2D3BAB712BC9C08DC2650EC58 /* FZTheme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FZTheme.framework; path = FZTheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECD872FFB100E93924917F355767C26A /* FZTheme.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FZTheme.debug.xcconfig; sourceTree = "<group>"; };
 		EE9BC7FE9A8394859567A13B9A8AA24F /* FZBuildingBlockCompatible+UIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FZBuildingBlockCompatible+UIColor.swift"; path = "FZBuildingBlock/Extensions/Classes/FZBuildingBlock/WrapperComponentCompatible/FZBuildingBlockCompatible+UIColor.swift"; sourceTree = "<group>"; };
@@ -386,32 +385,32 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				838271A8E418391A57AE8D2C78926F5C /* Foundation.framework in Frameworks */,
-				6BF8032E74F1F0C0BC8FE26FCA0C7BD4 /* UIKit.framework in Frameworks */,
+				ED1DEC8A54B3F552993EEBA2FEC49C44 /* Foundation.framework in Frameworks */,
+				B0C01F95353340D49CE204BAB2FF6CC7 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		708A6BE47A1124C74ACF3C46ACA959ED /* Frameworks */ = {
+		99D1BD236F6D6B8EC1EBBEA2AB01D2D1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				684494A583D377536C3A48AD4C28EAA4 /* Foundation.framework in Frameworks */,
+				574CA935FD27FDBEE13D6DEDD63E8A09 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		98145432B27A17BB05470C74E96C31E9 /* Frameworks */ = {
+		9BC5197C08416D3E590787FEC8FD3C1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BA669160457BF244D27F74808E3107F /* Foundation.framework in Frameworks */,
+				2D364A70D3D57FE4CACE8DBF53C5BBDF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C27FADB8B7DBEDB7B393A0011E47BD08 /* Frameworks */ = {
+		B6D8F59008F1903913C33AB4BF4DD191 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				620D9FC23C4A4B2A77A1674546ECF853 /* Foundation.framework in Frameworks */,
+				C3BA3B6908FF0DF22B7EBAC830AD89C8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,7 +435,7 @@
 		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E2983683FD097A93297E2F5D4E382B36 /* iOS */,
+				59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -582,6 +581,15 @@
 				F27E36BDD58643070F5C516AFF74F0F1 /* UIViewController+TopViewController.swift */,
 			);
 			name = Extensions;
+			sourceTree = "<group>";
+		};
+		59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */,
+				D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		5E98CCD6C4B13C818A70C8511F05FD10 /* Products */ = {
@@ -742,15 +750,6 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		E2983683FD097A93297E2F5D4E382B36 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */,
-				312B988EF117AE4DE76A268D970131FE /* UIKit.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		E5C50047059BE84BDABB4261DF99869C /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -780,27 +779,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		66C283422B252F0B8D937B65078F20C4 /* Headers */ = {
+		316747906D3AF2DC65A35B8AFD773381 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55B4F7D592696349F25785966F82B5C4 /* Pods-FZTheme_Example-umbrella.h in Headers */,
+				1DEAF832E4DB7C6F5A931BF73B1D134B /* Pods-FZTheme_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6B154E533FFA926FF8F5D58499E7F45D /* Headers */ = {
+		C3A67BF3D52C0AA333AF0811EB33D26A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9D7E028CC64921A9DFD584E41DEFA43 /* FZBuildingBlock-umbrella.h in Headers */,
+				D1F827485139B00FA33A43134110B08A /* FZBuildingBlock-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D34A592EB9B28D379BF92DD83B2013AF /* Headers */ = {
+		DE526846BF5ACF262FAC77FE2668CFE1 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB0674FC4F01B6E2BEB7DF2E2B3F68FD /* Pods-FZTheme_Tests-umbrella.h in Headers */,
+				4720F9D8C8B9D437356D077EB3F1755D /* Pods-FZTheme_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -809,18 +808,18 @@
 /* Begin PBXNativeTarget section */
 		8903EE790ED1ABB77F996D20221887E9 /* Pods-FZTheme_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 72FAFC6D6A0FD15147E308F0B109934A /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Example" */;
+			buildConfigurationList = 1B3D1216548D4CC0B0B8BB4775F23511 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Example" */;
 			buildPhases = (
-				66C283422B252F0B8D937B65078F20C4 /* Headers */,
-				2D79CE5BC6E33EA250F07FA7BC4B5A7C /* Sources */,
-				98145432B27A17BB05470C74E96C31E9 /* Frameworks */,
-				75ABFB2FDC102C75BD150A707978BD62 /* Resources */,
+				DE526846BF5ACF262FAC77FE2668CFE1 /* Headers */,
+				6D92349186AB480755127C89C4A220AB /* Sources */,
+				B6D8F59008F1903913C33AB4BF4DD191 /* Frameworks */,
+				346D28FAB9D1B9C0AACC46856AB9B7C8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				51E534C9B9D532ACE758CBBD287D47A8 /* PBXTargetDependency */,
-				01829AA66AE476FD8340CA24BA6C18ED /* PBXTargetDependency */,
+				7265D872AC970D9002BD75DFF045B293 /* PBXTargetDependency */,
+				1C8E4222E329DD94640BD5AA9FCAC504 /* PBXTargetDependency */,
 			);
 			name = "Pods-FZTheme_Example";
 			productName = "Pods-FZTheme_Example";
@@ -829,17 +828,17 @@
 		};
 		A5B34342A7EF071545BFFB1C6CBE9AA6 /* Pods-FZTheme_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3B60C98332003304A98EB1CBF94DC266 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Tests" */;
+			buildConfigurationList = 79C42DC14E473B22D2646DABF7AB79B3 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Tests" */;
 			buildPhases = (
-				D34A592EB9B28D379BF92DD83B2013AF /* Headers */,
-				EAB53C883C792C014F2B698D15FDF18A /* Sources */,
-				C27FADB8B7DBEDB7B393A0011E47BD08 /* Frameworks */,
-				C9C17D738B52EDAF30FFBF81BFC21A70 /* Resources */,
+				316747906D3AF2DC65A35B8AFD773381 /* Headers */,
+				4D302D5CA9DE171A94752D6E38E1752B /* Sources */,
+				99D1BD236F6D6B8EC1EBBEA2AB01D2D1 /* Frameworks */,
+				FB47C5C1325262EBE233D2D227673DC2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				77D152E3F026E4556AEF17180F1AA8D4 /* PBXTargetDependency */,
+				3467E64AD029EE654E23553832B3A054 /* PBXTargetDependency */,
 			);
 			name = "Pods-FZTheme_Tests";
 			productName = "Pods-FZTheme_Tests";
@@ -848,12 +847,12 @@
 		};
 		C72EE7B138AAD9D395FBF0D00DD62D49 /* FZBuildingBlock */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C866B2FFA7C6206549298CAB02EEA4EE /* Build configuration list for PBXNativeTarget "FZBuildingBlock" */;
+			buildConfigurationList = 71BEE8B7C45B8811565B6075F36031E9 /* Build configuration list for PBXNativeTarget "FZBuildingBlock" */;
 			buildPhases = (
-				6B154E533FFA926FF8F5D58499E7F45D /* Headers */,
-				4B8485FA4DEE16F9449AD4CAD30C71FC /* Sources */,
-				708A6BE47A1124C74ACF3C46ACA959ED /* Frameworks */,
-				295A1C43575797904F95D22D15BBFAAF /* Resources */,
+				C3A67BF3D52C0AA333AF0811EB33D26A /* Headers */,
+				789F81162FF8921D17226DC5D66B9C9B /* Sources */,
+				9BC5197C08416D3E590787FEC8FD3C1D /* Frameworks */,
+				F899719AF8625F13D195B6DA0AEB6F90 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -913,15 +912,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		295A1C43575797904F95D22D15BBFAAF /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5EC5D3CD9D4C708865CD69C56066F8AB /* Tools.modulemap in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		75ABFB2FDC102C75BD150A707978BD62 /* Resources */ = {
+		346D28FAB9D1B9C0AACC46856AB9B7C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -935,7 +926,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C9C17D738B52EDAF30FFBF81BFC21A70 /* Resources */ = {
+		F899719AF8625F13D195B6DA0AEB6F90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB47C5C1325262EBE233D2D227673DC2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -945,151 +943,159 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2D79CE5BC6E33EA250F07FA7BC4B5A7C /* Sources */ = {
+		4D302D5CA9DE171A94752D6E38E1752B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13D5385B4E43EB932044BFAA83F3A96E /* Pods-FZTheme_Example-dummy.m in Sources */,
+				5BB2179EE13445524AAABCA1D06D38CF /* Pods-FZTheme_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4B8485FA4DEE16F9449AD4CAD30C71FC /* Sources */ = {
+		6D92349186AB480755127C89C4A220AB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5D18023EC909CCABA35DABC5CDCE016 /* Array+SafeAccess.swift in Sources */,
-				1F50DC43E6DF166024E6662D7CB9A1A6 /* Bundle+Find.swift in Sources */,
-				D5B0139ACD612847999C8D43517D3D91 /* Data+GIF.swift in Sources */,
-				F2D1B2E1084B621F31A2FB1591F16957 /* Data+JPEG.swift in Sources */,
-				E2431988D6E1BA0F904233E2A68884BF /* Data+PNG.swift in Sources */,
-				AB808D5A2BCBC754BEEE3A41417D6612 /* FZAttribute.swift in Sources */,
-				C6143D5975481DD0A5CBDD8AEDF22F7C /* FZBuildingBlock-dummy.m in Sources */,
-				175790037B0E3FB86B54DE135CBFB1D1 /* FZBuildingBlockCompatible+Bundle.swift in Sources */,
-				A04960CA04DA9CE81DA7462A90BEEF9B /* FZBuildingBlockCompatible+NSAttributedString.swift in Sources */,
-				41B8343645A6DE298B55B24E2315FC70 /* FZBuildingBlockCompatible+UIApplication.swift in Sources */,
-				36AD4F2C56B1003916929BB0C207670A /* FZBuildingBlockCompatible+UIBarButtonItem.swift in Sources */,
-				25DA4ADE3BD60FAA2801685B5E272154 /* FZBuildingBlockCompatible+UIColor.swift in Sources */,
-				10B57FDBC9159844C9C1F28A31F29C21 /* FZBuildingBlockCompatible+UIDevice.swift in Sources */,
-				1D73DEB2B5A053689676E5B40B5F3689 /* FZBuildingBlockCompatible+UIFont.swift in Sources */,
-				B98880E2A40AD2188CA7D0138B647F7B /* FZBuildingBlockCompatible+UIGestureRecognizer.swift in Sources */,
-				B51A58F11FE3F48498B2126DA1FDF273 /* FZBuildingBlockCompatible+UIImage.swift in Sources */,
-				69DBE476B6B6EB3ED2BF8FD7B5396CF3 /* FZBuildingBlockCompatible+UINavigationItem.swift in Sources */,
-				E4E31757FC0C4E607EEA45F33AAB3553 /* FZBuildingBlockCompatible+UIScreen.swift in Sources */,
-				D0406B7953E1E7C1C511B2E22B8FA8E7 /* FZBuildingBlockCompatible+UIView.swift in Sources */,
-				69FAC17B064FB9EE8CA8D2A623680FB7 /* FZBuildingBlockCompatible+UIViewController.swift in Sources */,
-				2286908DCD0E07846053158ED8934D56 /* FZBuildingBlockCompatible.swift in Sources */,
-				D3D0C4D63FF6776F8A292CA9DE9B5A7B /* FZBuildingBlockCompatibleValue+Array.swift in Sources */,
-				C4A8B7FFBFEEE04E591A50877F941B4D /* FZBuildingBlockCompatibleValue+Data.swift in Sources */,
-				DFFBFB71EF9E3A60A7E5C966EDDBA8A0 /* FZBuildingBlockCompatibleValue+String.swift in Sources */,
-				6445C1637DB5F110F734BFEA39C0574B /* FZBuildingBlockCompatibleValue.swift in Sources */,
-				95E3B567AD9FE2A6F5706C0AD9ED8633 /* FZBuildingBlockWrapper.swift in Sources */,
-				4D76A0D2E48E17BD27CF8DDE01C1BCDF /* FZCommonCryptoAlgorithm.swift in Sources */,
-				79C1A72AAAD83F30C31B7FB823C64AA0 /* FZContainerView.swift in Sources */,
-				BCC843113075FD71BB52C24C875C91F7 /* FZContainerViewModel.swift in Sources */,
-				BE26250A77B6C5C2ADCB5CA6F868F5B7 /* FZGradientButton.swift in Sources */,
-				341FC1D4F5E543D2231A93D1E77629BD /* FZGradientView.swift in Sources */,
-				4B3CF181FC5E76AD3D79BECB613D4F3D /* FZLargeImageView.swift in Sources */,
-				DE2F3759999C1C40BC38A96CC1AC7C65 /* FZRouter.swift in Sources */,
-				CE3C73BB16F84124E398903C0420B60D /* FZRouterDataPacket.swift in Sources */,
-				9BB18002BD662219F637DC269D287167 /* FZRouterExecute.swift in Sources */,
-				2F6F5EB673A33846D84DE244290FED9C /* FZRouterExecuterProtocol.swift in Sources */,
-				52E44AF32A57A7BFE1058756B06C4C01 /* FZRouterLoaderProtocol.swift in Sources */,
-				22538F62E415C06F57BE68C01894EDD7 /* FZRouterManager.swift in Sources */,
-				30857C43D1BED32F2EFE44D72E1B7681 /* FZRouterManagerProtocol.swift in Sources */,
-				32CE43055792B367D20D6A49F49F2284 /* FZRouterModel.swift in Sources */,
-				A02350C55EDABB2E9ED51B7BBF6E209F /* FZRouterModelProtocol.swift in Sources */,
-				0B3EF2AC40CC9BCAF4A0B1A007C4320E /* FZRouterPlistLoader.swift in Sources */,
-				06847A5C9F7343DC55396D89F6C12D83 /* FZRouterURLUtil.swift in Sources */,
-				D64B9343F6F0AB188D92D8BB9D43BD06 /* FZRunTime+MethodSwizzling.swift in Sources */,
-				A688CBE528571245366911C1429B7ADB /* FZRuntime.swift in Sources */,
-				61C704C09EC50E2382ACB38E01375556 /* FZTableView.swift in Sources */,
-				88411BB21B8CDEC1DD55BC9296895710 /* FZTableViewCell.swift in Sources */,
-				A308F01854A6EF3E4BA9CF92947A11D1 /* FZTableViewCellModel.swift in Sources */,
-				7E2FE8025B52DD72666E7C6EDA80EF73 /* FZTableViewCommonCell.swift in Sources */,
-				B2B4B0B33834F36C9693D8F26133200D /* FZTableViewManager.swift in Sources */,
-				A3E82DBA1820F62297676080F15CEFE8 /* FZTableViewRow.swift in Sources */,
-				3B349EA64F717CF94C352F2F6A821DD3 /* FZTableViewSection.swift in Sources */,
-				FC664B6828C6464F20011DCE32BB5033 /* FZTextField.swift in Sources */,
-				813EAE8B5D77BCB7DD33280A6B0B2408 /* FZTextView.swift in Sources */,
-				3C6785F1ED854AD3846ADA7ADA7F55A7 /* FZUIBarButtonItemClosureHandler.swift in Sources */,
-				F7032600932997E665DA2E0A07CCED86 /* FZUIControlClosureHandler.swift in Sources */,
-				6D7FAA46935721A1A2C6883F466A352F /* FZUIGestureRecognizerClosureHandler.swift in Sources */,
-				661F0910A27EB235AF72C2774FD0760A /* IFAddressTool.swift in Sources */,
-				3A0FCF63A2910C8B5EEADE8078B2BB93 /* KeyboardObserver.swift in Sources */,
-				6BFB674E288E6C2577892E02028B0A06 /* KeychainPasswordItem.swift in Sources */,
-				E60E338AC7AE69409E64730949B19678 /* KeyChainUniqueIDManager.swift in Sources */,
-				60DEB61C6EA508EB67AB99035EB4EAB0 /* NSAttributedString+ConvenienceInit.swift in Sources */,
-				FAC44F78AD53053C66242B39542882F7 /* NSAttributedString+Range.swift in Sources */,
-				E471F7A1FAEA4DB6DEDD6C52E0EED551 /* NSAttributedString+Size.swift in Sources */,
-				F1DDF546BD0031D189490BC256AC5699 /* NSMutableAttributedString+Add.swift in Sources */,
-				840F1C58CF6A46B4D641E0DE999A183A /* NSMutableAttributedString+Append.swift in Sources */,
-				953DE82FD71BEF536A90308426125793 /* NSMutableAttributedString+ConvenienceInit.swift in Sources */,
-				73DFA72B8C15606FD8DDC15EA65E2580 /* NSMutableAttributedString+Insert.swift in Sources */,
-				084E70AB3CDEBBC64DFE85EE49238EA0 /* NSMutableAttributedString+Remove.swift in Sources */,
-				6507BBE62145F66FF5A3FF1BBD8F45EE /* NSMutableAttributedString+Set.swift in Sources */,
-				E95557D1BE7C6A6B448862C5D6213FD4 /* ObserveAble.swift in Sources */,
-				0E4D355FBE2442CD534D51BD322BDEEB /* Observer.swift in Sources */,
-				D979014407B108593EB938EEE9056AAD /* ObserverSafeManager.swift in Sources */,
-				25B350646EBA181ED8AAA722D31BFB53 /* String+Base64.swift in Sources */,
-				2AB6D5755178E5CB83AE94B0B6546813 /* String+CommonCrypto.swift in Sources */,
-				71B16BD24713D4E61784D1B86CF04C2D /* String+Emoji.swift in Sources */,
-				4B5EFA9F83394432AEA074FBFC2E0786 /* String+Pinyin.swift in Sources */,
-				34A71434ED55B353B064512762A0999A /* String+SafeAccess.swift in Sources */,
-				8181E2B717CC4C91E3CFCA6D9E356988 /* String+Size.swift in Sources */,
-				95C0FF51E03DB7E1D801081260069608 /* String+Trim.swift in Sources */,
-				6DDA9C35B5534E279F723EC034F22D6C /* String+URL.swift in Sources */,
-				1431F4EF40B5700B399084A419A25222 /* UIApplication+SafeArea.swift in Sources */,
-				7A204FC638130600AF06266FDE7BB010 /* UIApplication+StatusBar.swift in Sources */,
-				395A36ED3DEC29A1C99B9A339392DB35 /* UIBarButtonItem+Closures.swift in Sources */,
-				D0F04A0D2200D90FDFD7D8A51E4B90B8 /* UIBarButtonItem+Handler.swift in Sources */,
-				6B8311816AD4D95E9CA66E23DC661904 /* UIButton+ImageAndTitleLayout.swift in Sources */,
-				256E4511057AE678324E71C4679F5EF0 /* UIButton+Indicator.swift in Sources */,
-				4BC13559CFE3FB1DB46057D3039773C9 /* UIColor+Hex.swift in Sources */,
-				E665DD558FC70B34E3DC0243C3EF253B /* UIColor+HSB.swift in Sources */,
-				80BD4E7D3F5EE56B0ED9A807FAF557E3 /* UIColor+Random.swift in Sources */,
-				F79BA10BBCB77C9908AD95408CB0C41C /* UIColor+RGB255.swift in Sources */,
-				FA4C524602DC1042845A06A96F8F54C8 /* UIControl+Closures.swift in Sources */,
-				48307D91890075F65315E60048C13F0C /* UIControl+TouchArea.swift in Sources */,
-				FB497CE9A4888E87BEE2200F8A1800E8 /* UIDevice+Disk.swift in Sources */,
-				42C90CED5AAA71521883F27605CD552A /* UIFont+TTC.swift in Sources */,
-				D013D94D51D3F7166AFEE61CC468BEDF /* UIFont+TTF.swift in Sources */,
-				35CA9CBF45B6A797100EBD156E285CD0 /* UIGestureRecognizer+Handler.swift in Sources */,
-				813C6DDA0A2516F24BE13439FB2AE689 /* UIImage+Color.swift in Sources */,
-				5ABA649F5854BB60B53F2FAAE1478F8C /* UIImage+Copy.swift in Sources */,
-				838E6D456E5E78734E0BDFC14B2C41E4 /* UIImage+CornerRadius.swift in Sources */,
-				11FF7216CF6419448533C5D748A02684 /* UIImage+Cut.swift in Sources */,
-				E901AEEDCCB6B3DD9F1413F643D0B88B /* UIImage+FileName.swift in Sources */,
-				9808CCD66D99F025ACB78ACB3166DB5E /* UIImage+GIF.swift in Sources */,
-				70F4A913FFE14BBD99B4C98F4A21E69E /* UIImage+Resize.swift in Sources */,
-				F3640ADD0804DC16EA6317711876167D /* UIImage+Rotation.swift in Sources */,
-				980C45C1DA1F57D90310381FA2D0830C /* UIImage+String.swift in Sources */,
-				7AA9ADA152CB5206DE52ACB5B75BFB76 /* UIImage+WaterMark.swift in Sources */,
-				53CEFB034CB027CA56D8DED56E8E1126 /* UIImageView+GIF.swift in Sources */,
-				74A0B935DA6BA95A734D730AF312CC58 /* UILongPressGestureRecognizer+Closures.swift in Sources */,
-				79469C1339DF5763193B965C9CCD155B /* UINavigationController+NavigationBar.swift in Sources */,
-				3778A06F19C5F5368C960C9405B7CE28 /* UINavigationController+Query.swift in Sources */,
-				496F409B355F6347D14162E409A2F011 /* UINavigationController+Root.swift in Sources */,
-				4CC41A8BBB6422AA1D9516550D715C3F /* UINavigationController+StackManager.swift in Sources */,
-				7433D76D7E3AF65130AB00EE1B40DF21 /* UINavigationItem+Indicator.swift in Sources */,
-				6BA28FC740D2917FCB6E1A19A1AB7059 /* UIPanGestureRecognizer+Closures.swift in Sources */,
-				15CFD7B6AAE1575E93B8837B66BC4B0C /* UIPinchGestureRecognizer+Closures.swift in Sources */,
-				FCC465BD14F8ABE1D34CA1792247A117 /* UIRotationGestureRecognizer+Closures.swift in Sources */,
-				EB385FAFAC87F906CCACCD96A0050CDB /* UIScreen+TabBar.swift in Sources */,
-				32734168C9D640BAD07ABE7D6F0409BE /* UIScreenEdgePanGestureRecognizer+Closures.swift in Sources */,
-				8449F55094AB4ABE54C040E6435FA038 /* UIScrollView+Snapshot.swift in Sources */,
-				2CF63B6384C9D49788F312FC393F4E2B /* UISwipeGestureRecognizer+Closures.swift in Sources */,
-				B017A3CF1438439B70B051008D176CD4 /* UITabBarController+TabBar.swift in Sources */,
-				295C3D087415829CF2623465D3663763 /* UITapGestureRecognizer+Closures.swift in Sources */,
-				733FF1E0829A7DA690C6CC533EED69B2 /* UIView+BorderLine.swift in Sources */,
-				6B57294DFF3B1210CD6EFDE4B3BD9D27 /* UIView+Color.swift in Sources */,
-				7D2EB5C08823001AC4B7D49065F17975 /* UIView+CornerRadius.swift in Sources */,
-				A86CE8CA8EE81CC4C50B45C7D398DC1E /* UIView+Gesture.swift in Sources */,
-				A934C3B2897DC09AFD7EB754FE161543 /* UIView+Layout.swift in Sources */,
-				419C7C29B2B883DAF3E2277BCB7AB645 /* UIView+Position.swift in Sources */,
-				82B2F4A37ED438516EACAE0F53CB7C2A /* UIView+Shadow.swift in Sources */,
-				5577F3F85DF12542922D7FEDCCB1D440 /* UIView+Snapshot.swift in Sources */,
-				59FF6C62C2F0F78B63048055A2175BB2 /* UIView+UIViewController.swift in Sources */,
-				F57F5FA8AC8C2FE14071449D7E91D13D /* UIViewController+TopViewController.swift in Sources */,
+				276BF904196A1EC56C9B7B820AA5013E /* Pods-FZTheme_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		789F81162FF8921D17226DC5D66B9C9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6D4AF3B9B78057717127FE7D0B349796 /* Array+SafeAccess.swift in Sources */,
+				01C5AF5014BD64BB3A07894EABA7AB71 /* Bundle+Find.swift in Sources */,
+				B8E991A16D0D227D9A1282B5BD8C5FC9 /* Data+GIF.swift in Sources */,
+				BCFA79F42D5816AE090304B9E1C61611 /* Data+JPEG.swift in Sources */,
+				2791A30DA2349CD65A2016882E9038EC /* Data+PNG.swift in Sources */,
+				0B70F826ED84CC919CD69783057DF1EF /* FZAttribute.swift in Sources */,
+				F9DD26DDC5310BB2F15B7D8C6A6BB0E2 /* FZBuildingBlock-dummy.m in Sources */,
+				1EEAB82BBFA57052240F04EBAA865A93 /* FZBuildingBlockCompatible+Bundle.swift in Sources */,
+				8CBE50F5C623C9C2F87746EE21E61B20 /* FZBuildingBlockCompatible+NSAttributedString.swift in Sources */,
+				95E08C6E1ABD15A37B4DC7E437DE1B20 /* FZBuildingBlockCompatible+UIApplication.swift in Sources */,
+				8E99F2D1D6207BF07FE91E543938FD09 /* FZBuildingBlockCompatible+UIBarButtonItem.swift in Sources */,
+				1B3C36A62EC833EDF93468597A191EA3 /* FZBuildingBlockCompatible+UIColor.swift in Sources */,
+				1E7DEA4E4430CA9F4E9D002AE06EA153 /* FZBuildingBlockCompatible+UIDevice.swift in Sources */,
+				6C3E34AD941A90C3F50DF7D13AD7A9A2 /* FZBuildingBlockCompatible+UIFont.swift in Sources */,
+				D432541E7BBF6BD926666F00D7FF25E7 /* FZBuildingBlockCompatible+UIGestureRecognizer.swift in Sources */,
+				8793704AB40585661D716DDCEB5091D2 /* FZBuildingBlockCompatible+UIImage.swift in Sources */,
+				9017C0BB0AC0E3274C7C45FFD8A8B8D0 /* FZBuildingBlockCompatible+UINavigationItem.swift in Sources */,
+				17140D0AEEED2F904EE15DA2942129C0 /* FZBuildingBlockCompatible+UIScreen.swift in Sources */,
+				871E978C1341C5FBF016E5BD08708336 /* FZBuildingBlockCompatible+UIView.swift in Sources */,
+				D41BAE3E4C2DDCCAD533D48782930616 /* FZBuildingBlockCompatible+UIViewController.swift in Sources */,
+				D0F96C76B89105EB52F69E68EE27E99D /* FZBuildingBlockCompatible.swift in Sources */,
+				E204F309B854DDE478AA6A903742EAFF /* FZBuildingBlockCompatibleValue+Array.swift in Sources */,
+				A5D6CAC1E3EEC9291256960B0482DE9D /* FZBuildingBlockCompatibleValue+Data.swift in Sources */,
+				579678D3404586785FAB7DF33E9B98A9 /* FZBuildingBlockCompatibleValue+String.swift in Sources */,
+				C6D2DA7721D345E81B4101F3D5F77F51 /* FZBuildingBlockCompatibleValue.swift in Sources */,
+				A428DD76AB9DE990F8757D61C900BC55 /* FZBuildingBlockWrapper.swift in Sources */,
+				6C58D5BD44B275245D0CC9327629B24E /* FZCommonCryptoAlgorithm.swift in Sources */,
+				561003A756CC032C032E092BD07143E1 /* FZContainerView.swift in Sources */,
+				EB45209C1045F2A797B2587DB3D08130 /* FZContainerViewModel.swift in Sources */,
+				D54EA4E970EABA3477C360B6EA9AF907 /* FZGradientButton.swift in Sources */,
+				D12E916E8E57B95AF748E6C239A6715E /* FZGradientView.swift in Sources */,
+				5C483A2647DF58D44F103B30F099F9E2 /* FZLargeImageView.swift in Sources */,
+				D56339ACC8894915AD68C2F2A24BAB26 /* FZRouter.swift in Sources */,
+				2E6FF7DF01BB07321DAA3326633C01F5 /* FZRouterDataPacket.swift in Sources */,
+				4A301E1726CB73B67EA243152C2723F5 /* FZRouterExecute.swift in Sources */,
+				F16CA7917E1871BAEF1DC60C06C47500 /* FZRouterExecuterProtocol.swift in Sources */,
+				9FE9455A7C9486F885266C5143F162BF /* FZRouterLoaderProtocol.swift in Sources */,
+				CCB27AA7892527A66321FD74B93B9847 /* FZRouterManager.swift in Sources */,
+				C6B7709ECACC8B9B8CC60ADCB4B0FEA1 /* FZRouterManagerProtocol.swift in Sources */,
+				2057F778CFDC190C8A6AD7F264CECF8B /* FZRouterModel.swift in Sources */,
+				4FA34176E07DDFF9225CB81A08BA379E /* FZRouterModelProtocol.swift in Sources */,
+				A47E8BA873C616859590255BD9FBD08E /* FZRouterPlistLoader.swift in Sources */,
+				9B83DAB7D46AC6164382571C3D2AE5E6 /* FZRouterURLUtil.swift in Sources */,
+				656750EA16DD02E35AE2A3DA171683C5 /* FZRunTime+MethodSwizzling.swift in Sources */,
+				FE9839A83F8128C1258BD4F0C794DA32 /* FZRuntime.swift in Sources */,
+				4CBBB0B40952CCCBBE6EC4EDF1FFC34F /* FZTableView.swift in Sources */,
+				D913D035D130BF8FEF81C6781BAD31BB /* FZTableViewCell.swift in Sources */,
+				E329E8736D639660F1D6CD0D6241EBE1 /* FZTableViewCellModel.swift in Sources */,
+				BB4ABC80B18EC7CEFE85C52BB7606D15 /* FZTableViewCommonCell.swift in Sources */,
+				6C28512305BCA545249FA9ECDC436DA4 /* FZTableViewManager.swift in Sources */,
+				F55536F30AE4FFD8778C929BD4EDF4AD /* FZTableViewRow.swift in Sources */,
+				195C7859D9113A14AD72015E7A4A9192 /* FZTableViewSection.swift in Sources */,
+				BD2754E92321ACFEA7BB2AA8F7AF58D1 /* FZTextField.swift in Sources */,
+				B6066D87027E22FDCAB0DFE1D16742B5 /* FZTextView.swift in Sources */,
+				EC078F88C2941FF96E0C291E67172BD4 /* FZUIBarButtonItemClosureHandler.swift in Sources */,
+				0F8505B69AB839327B3D772468B55FF9 /* FZUIControlClosureHandler.swift in Sources */,
+				645A8C78106691765CCECF4FFBD91F7C /* FZUIGestureRecognizerClosureHandler.swift in Sources */,
+				AA4FC85B9FC42A425CB08B2FF8173E62 /* IFAddressTool.swift in Sources */,
+				6967454B64CE1A57F3167F1D20A6780B /* KeyboardObserver.swift in Sources */,
+				176091F72AD773C5FE39A6EE93690E9A /* KeychainPasswordItem.swift in Sources */,
+				0574AE8D0F0130C855E14D88F665C32F /* KeyChainUniqueIDManager.swift in Sources */,
+				08C6EC478CDA99086007CFD42FD8EDA5 /* NSAttributedString+ConvenienceInit.swift in Sources */,
+				1F18C80286D0A31C4335D75193A68842 /* NSAttributedString+Range.swift in Sources */,
+				87D8800E2C0CC2B2F17DA5364A521B62 /* NSAttributedString+Size.swift in Sources */,
+				614ADCDD0CB91B3B86A4FC098E40FCB6 /* NSMutableAttributedString+Add.swift in Sources */,
+				E286F20D5D67F80A0056E062984B72C6 /* NSMutableAttributedString+Append.swift in Sources */,
+				DCCA14EECC5AB6FBF238F274C2D0CB0A /* NSMutableAttributedString+ConvenienceInit.swift in Sources */,
+				C32E98B1B46494C1A48ED430DE4509B5 /* NSMutableAttributedString+Insert.swift in Sources */,
+				C9CFD305BD829541491E1C35A2F9DF3B /* NSMutableAttributedString+Remove.swift in Sources */,
+				6973790E9670E64A8810DC20B0CFFF50 /* NSMutableAttributedString+Set.swift in Sources */,
+				2F35CF62B197BAFCC2F0EB3870642C7F /* ObserveAble.swift in Sources */,
+				F8DF66F081F36530A6E826DE54C8F8A1 /* Observer.swift in Sources */,
+				F1B02EF5DEB9A4595C81134AA4A09C68 /* ObserverSafeManager.swift in Sources */,
+				90BE5AB33990859F31BE8F495D7190A5 /* String+Base64.swift in Sources */,
+				3D3D7141F756FC73D91979A9FF82E98E /* String+CommonCrypto.swift in Sources */,
+				F9215B95BC8902083066E5FD95D0DA76 /* String+Emoji.swift in Sources */,
+				2804282EB95B3BA4946F9D1701036880 /* String+Pinyin.swift in Sources */,
+				A78CD10D625E321535316A30A3199842 /* String+SafeAccess.swift in Sources */,
+				60EA78C8C9DA380AD7EA602C83D18750 /* String+Size.swift in Sources */,
+				8225AAA4456D1ABF529B326F20140E4E /* String+Trim.swift in Sources */,
+				0E087675937DEF4F90AE8A6EB6DF015C /* String+URL.swift in Sources */,
+				66174209BADD30C656F183EBD2DCAC5E /* UIApplication+SafeArea.swift in Sources */,
+				8EDF6349074A6B3710F1AB62800D1ED0 /* UIApplication+StatusBar.swift in Sources */,
+				A48FFF516C5498FF039D13C6FC89532A /* UIBarButtonItem+Closures.swift in Sources */,
+				5B3E5FD36BE2E6DE6FF729740E8B4B45 /* UIBarButtonItem+Handler.swift in Sources */,
+				26D120C2B9667C2D17248F235491378D /* UIButton+ImageAndTitleLayout.swift in Sources */,
+				FA2E42759A3CD7E080211D98CE09DA7E /* UIButton+Indicator.swift in Sources */,
+				2F58E7D7DE65B480A40A5957FECAD655 /* UIColor+Hex.swift in Sources */,
+				1F8601C52B003C97C5AB85C6A9D3F59A /* UIColor+HSB.swift in Sources */,
+				079CAC7B0C77DB04D95B7C99252A653A /* UIColor+Random.swift in Sources */,
+				BF5DE71254EB9CEAC9093D5DE449F1B3 /* UIColor+RGB255.swift in Sources */,
+				625262C7067EB0CE4325D2724AABCFE9 /* UIControl+Closures.swift in Sources */,
+				0363F8AC16EFF44BE1098E8E587F7BF8 /* UIControl+TouchArea.swift in Sources */,
+				98A31D21E0555677F519BF9476F581F5 /* UIDevice+Disk.swift in Sources */,
+				C2388B64338EA2E7FE1F27E8FB340B93 /* UIFont+TTC.swift in Sources */,
+				B945186C7D070C318BE7B3E1DB0F3C76 /* UIFont+TTF.swift in Sources */,
+				D75F73AFECDB2F71512E2D8AA03E05D9 /* UIGestureRecognizer+Handler.swift in Sources */,
+				0CC2D2A1ED4072BAA72BA958923782FE /* UIImage+Color.swift in Sources */,
+				6D3E249054AAB1E06ECB085A09776B2A /* UIImage+Copy.swift in Sources */,
+				044BE820238EB2BA0E5F8882DECCB1ED /* UIImage+CornerRadius.swift in Sources */,
+				02D40E00AF51ECE3FCD45437E738B576 /* UIImage+Cut.swift in Sources */,
+				FF41F6E1C34D88A059F4E40AB477458B /* UIImage+FileName.swift in Sources */,
+				3602DAF1C6B69D93216482BD982710B9 /* UIImage+GIF.swift in Sources */,
+				01175DC8D1B41B5A6E0B6DB1A587F5D0 /* UIImage+Resize.swift in Sources */,
+				5AF5C4799F3C4C3D02148736DB22C421 /* UIImage+Rotation.swift in Sources */,
+				2DB7DBEE3051B7AF80FEE52016B13841 /* UIImage+String.swift in Sources */,
+				634E47C4A39B7AD9999027EC50DEB198 /* UIImage+WaterMark.swift in Sources */,
+				14550F567EAA3C23ADD2DD3D52D1AE5B /* UIImageView+GIF.swift in Sources */,
+				88FE1B3B125D6E16E8D9746D7A68C1E5 /* UILongPressGestureRecognizer+Closures.swift in Sources */,
+				CA863A54F1E7E73826FB902D147CCD7F /* UINavigationController+NavigationBar.swift in Sources */,
+				C155A24A56D197CC8EC1293B78CB054C /* UINavigationController+Query.swift in Sources */,
+				D3CFC6E882E9B667B2DBB2EB49758AE2 /* UINavigationController+Root.swift in Sources */,
+				0F02E412D9B508B2E1382766286DFCCA /* UINavigationController+StackManager.swift in Sources */,
+				49BB3F8B0226D41F86A6F229C1011D4C /* UINavigationItem+Indicator.swift in Sources */,
+				880A8246CAEBE62CE06BA538AB4C123E /* UIPanGestureRecognizer+Closures.swift in Sources */,
+				F16F0F4A1E8B5B111A7357D45790DB2A /* UIPinchGestureRecognizer+Closures.swift in Sources */,
+				F15888D5FE9888F519AAF5F988C853C2 /* UIRotationGestureRecognizer+Closures.swift in Sources */,
+				91406F01465332EC03129100701670FC /* UIScreen+TabBar.swift in Sources */,
+				A41DFAC94978309684BAEF37958C01EE /* UIScreenEdgePanGestureRecognizer+Closures.swift in Sources */,
+				979D4414E9F4C9774F2BC7B553266F98 /* UIScrollView+Snapshot.swift in Sources */,
+				C27DEC243D25AF875F9A70D79FDFDBBB /* UISwipeGestureRecognizer+Closures.swift in Sources */,
+				037A9F6C1C04F1CE8E65575715167BF1 /* UITabBarController+TabBar.swift in Sources */,
+				C1AFABC61C9B84682ABFBD60C6FCB074 /* UITapGestureRecognizer+Closures.swift in Sources */,
+				57FB91FEC357FD85FE9B8BB895986511 /* UIView+BorderLine.swift in Sources */,
+				3FA1FD12F55882EC2A14117CACB83CB7 /* UIView+Color.swift in Sources */,
+				16B510D8126F87FA3B6D94DADA7B3B8C /* UIView+CornerRadius.swift in Sources */,
+				69ADC3403CD5A8E7B20336183C45F5A5 /* UIView+Gesture.swift in Sources */,
+				60ABBB8CD3B7CE69B27122119DC724E7 /* UIView+Layout.swift in Sources */,
+				B490AE3089218DE74A5DEBA26A12301C /* UIView+Position.swift in Sources */,
+				DAACD908B83CDC4234E4F4F54814E355 /* UIView+Shadow.swift in Sources */,
+				23C559E8333E32B93B3D0B645A587ED6 /* UIView+Snapshot.swift in Sources */,
+				7EF8CCFEDFDBF4F4EF81C08F9C5B0B92 /* UIView+UIViewController.swift in Sources */,
+				1735DF712B1C2C6AF667DE0CA007F60E /* UIViewController+TopViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1113,304 +1119,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EAB53C883C792C014F2B698D15FDF18A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				440BADF942C579B9E8C1525591340687 /* Pods-FZTheme_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		01829AA66AE476FD8340CA24BA6C18ED /* PBXTargetDependency */ = {
+		1C8E4222E329DD94640BD5AA9FCAC504 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FZTheme;
 			target = DBDA0E6AF1532A88FCB6BD67D31061EC /* FZTheme */;
-			targetProxy = 890996D3D214B64544D9F4D0D1E261A2 /* PBXContainerItemProxy */;
+			targetProxy = 5605085D7F61897F8287600D2B06CE98 /* PBXContainerItemProxy */;
 		};
-		51E534C9B9D532ACE758CBBD287D47A8 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = FZBuildingBlock;
-			target = C72EE7B138AAD9D395FBF0D00DD62D49 /* FZBuildingBlock */;
-			targetProxy = 65BCF8688E04C836AB1FA3BC18A46AD4 /* PBXContainerItemProxy */;
-		};
-		77D152E3F026E4556AEF17180F1AA8D4 /* PBXTargetDependency */ = {
+		3467E64AD029EE654E23553832B3A054 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-FZTheme_Example";
 			target = 8903EE790ED1ABB77F996D20221887E9 /* Pods-FZTheme_Example */;
-			targetProxy = BD7B2BA3598C00881F5A07EAF1BCC38B /* PBXContainerItemProxy */;
+			targetProxy = DBB3A1AAB7B5D32EE06836147C49E0A3 /* PBXContainerItemProxy */;
+		};
+		7265D872AC970D9002BD75DFF045B293 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FZBuildingBlock;
+			target = C72EE7B138AAD9D395FBF0D00DD62D49 /* FZBuildingBlock */;
+			targetProxy = 35356A1A0771C1678E6477C8975B060B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		10D6537219F09BB8BB246FF2A448F575 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 910C15CBE5FE9C6270628223F009E3D3 /* FZTheme.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZTheme/FZTheme-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZTheme/FZTheme-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FZTheme/FZTheme.modulemap";
-				PRODUCT_MODULE_NAME = FZTheme;
-				PRODUCT_NAME = FZTheme;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		13E5B3AF19E39E7007C42433EEF5AB98 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = ECD872FFB100E93924917F355767C26A /* FZTheme.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZTheme/FZTheme-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZTheme/FZTheme-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FZTheme/FZTheme.modulemap";
-				PRODUCT_MODULE_NAME = FZTheme;
-				PRODUCT_NAME = FZTheme;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		1CE3CAB267DFDBA16FF479CADB5542E1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49BB2E26680890921914C483ADD212EA /* Pods-FZTheme_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		25B950D38C835811E058D2A5EBEE3EEF /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C6DC59E5E68F24FC4A924D3CBCBA3170 /* Pods-FZTheme_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		2B706E35A38DB0BBA3AB766E7035EDF0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A2B2E2D49FD357D8ABEA17638B6A69C5 /* Pods-FZTheme_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		41535C2577EDDD7AE1B9DC6A62844F90 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6309F27BC02F0D9C5F4D8CAC5E2D1C21 /* FZBuildingBlock.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZBuildingBlock/FZBuildingBlock-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock.modulemap";
-				PRODUCT_MODULE_NAME = FZBuildingBlock;
-				PRODUCT_NAME = FZBuildingBlock;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		63AA5D8292211CE83542AECEBC765E61 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F985E99C142269E5097FF51D54D1244D /* Pods-FZTheme_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		786913A8C9726512F852DF19BD5A884F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5193B368334DB5762F2162A10ECA7122 /* FZBuildingBlock.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FZBuildingBlock/FZBuildingBlock-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock.modulemap";
-				PRODUCT_MODULE_NAME = FZBuildingBlock;
-				PRODUCT_NAME = FZBuildingBlock;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		B0087CB4594321EF41619F3181FE120E /* Release */ = {
+		431BA2B8298F0EE71735B9E0114E1955 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1433,6 +1170,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -1467,10 +1205,11 @@
 			};
 			name = Release;
 		};
-		B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */ = {
+		79759604D78320E712558F49DF19AA9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1493,6 +1232,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -1531,14 +1271,268 @@
 			};
 			name = Debug;
 		};
+		84208A4E014B58A9A3F8000203F95D97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6DC59E5E68F24FC4A924D3CBCBA3170 /* Pods-FZTheme_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BE1B51573E1F25C4C3717256E006C803 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F985E99C142269E5097FF51D54D1244D /* Pods-FZTheme_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C939BF19F7DDCF9E59D4AECA3C9E8831 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = ECD872FFB100E93924917F355767C26A /* FZTheme.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZTheme/FZTheme-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZTheme/FZTheme-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FZTheme/FZTheme.modulemap";
+				PRODUCT_MODULE_NAME = FZTheme;
+				PRODUCT_NAME = FZTheme;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CBCDD6BB7632D4CAA0F0427EC9F7C8CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 910C15CBE5FE9C6270628223F009E3D3 /* FZTheme.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZTheme/FZTheme-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZTheme/FZTheme-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FZTheme/FZTheme.modulemap";
+				PRODUCT_MODULE_NAME = FZTheme;
+				PRODUCT_NAME = FZTheme;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D8764C00BB6E97B3FC4548F688224EEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 49BB2E26680890921914C483ADD212EA /* Pods-FZTheme_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Tests/Pods-FZTheme_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		DA2BE59152C7D5B29B9B97519F9998DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6309F27BC02F0D9C5F4D8CAC5E2D1C21 /* FZBuildingBlock.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZBuildingBlock/FZBuildingBlock-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock.modulemap";
+				PRODUCT_MODULE_NAME = FZBuildingBlock;
+				PRODUCT_NAME = FZBuildingBlock;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		EFCAD0EE4A51933F3E4E0F96E59E9472 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5193B368334DB5762F2162A10ECA7122 /* FZBuildingBlock.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FZBuildingBlock/FZBuildingBlock-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/FZBuildingBlock/FZBuildingBlock.modulemap";
+				PRODUCT_MODULE_NAME = FZBuildingBlock;
+				PRODUCT_NAME = FZBuildingBlock;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F35C90247F2E1A3BA3C447E1451C5B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A2B2E2D49FD357D8ABEA17638B6A69C5 /* Pods-FZTheme_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FZTheme_Example/Pods-FZTheme_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3B60C98332003304A98EB1CBF94DC266 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Tests" */ = {
+		1B3D1216548D4CC0B0B8BB4775F23511 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63AA5D8292211CE83542AECEBC765E61 /* Debug */,
-				1CE3CAB267DFDBA16FF479CADB5542E1 /* Release */,
+				F35C90247F2E1A3BA3C447E1451C5B9A /* Debug */,
+				84208A4E014B58A9A3F8000203F95D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1546,17 +1540,26 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
-				B0087CB4594321EF41619F3181FE120E /* Release */,
+				79759604D78320E712558F49DF19AA9F /* Debug */,
+				431BA2B8298F0EE71735B9E0114E1955 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		72FAFC6D6A0FD15147E308F0B109934A /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Example" */ = {
+		71BEE8B7C45B8811565B6075F36031E9 /* Build configuration list for PBXNativeTarget "FZBuildingBlock" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2B706E35A38DB0BBA3AB766E7035EDF0 /* Debug */,
-				25B950D38C835811E058D2A5EBEE3EEF /* Release */,
+				EFCAD0EE4A51933F3E4E0F96E59E9472 /* Debug */,
+				DA2BE59152C7D5B29B9B97519F9998DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79C42DC14E473B22D2646DABF7AB79B3 /* Build configuration list for PBXNativeTarget "Pods-FZTheme_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE1B51573E1F25C4C3717256E006C803 /* Debug */,
+				D8764C00BB6E97B3FC4548F688224EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1564,17 +1567,8 @@
 		C7EB9781A0E3726CCC13904DFBBF0F6E /* Build configuration list for PBXNativeTarget "FZTheme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				13E5B3AF19E39E7007C42433EEF5AB98 /* Debug */,
-				10D6537219F09BB8BB246FF2A448F575 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		C866B2FFA7C6206549298CAB02EEA4EE /* Build configuration list for PBXNativeTarget "FZBuildingBlock" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				786913A8C9726512F852DF19BD5A884F /* Debug */,
-				41535C2577EDDD7AE1B9DC6A62844F90 /* Release */,
+				C939BF19F7DDCF9E59D4AECA3C9E8831 /* Debug */,
+				CBCDD6BB7632D4CAA0F0427EC9F7C8CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

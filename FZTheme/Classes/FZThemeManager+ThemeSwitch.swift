@@ -16,7 +16,7 @@ extension FZThemeManager {
         currentThemeStyle = style
     }
 
-    /// 切换当前主题（系统注意）
+    /// 切换当前主题（系统主题）
     /// - Parameter style: 系统最新主题
     @available(iOS 12.0, *)
     public func switchCurrentSystemTheme(to style: UIUserInterfaceStyle) {
